@@ -8,4 +8,5 @@ FlowHub: The Gist tool for Node-RED.
 | 0acf1aad335472c6 |  Gender Slider | Gerrit Riessen | 2023-07-28T11:50:04Z | [details](https://flowhub.org/f/0acf1aad335472c6) |
 | 390ee0021ded4910 |  GitHub functionality | Gerrit Riessen | 2023-07-28T11:54:19Z | [details](https://flowhub.org/f/390ee0021ded4910) |
 | 90196166b57a77e5 |  Fastmail JMAP | Gerrit Riessen | 2023-07-28T11:57:11Z | [details](https://flowhub.org/f/90196166b57a77e5) |
+| 54c593165e0c8100 |  mapmindreader | Gerrit Riessen | 2023-07-28T11:59:16Z | [details](https://flowhub.org/f/54c593165e0c8100) |
 
