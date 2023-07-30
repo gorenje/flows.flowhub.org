@@ -2,9 +2,9 @@
 
 These are sample flows that can be tried out in Node-RED. Each flow can be downloaded and imported into Node-RED.
 
-A flow found here is licensed under the [don't do evil license](https://cdn.openmindmap.org/LICENSE.txt).
+All flows found here are licensed under the [don't do evil license](https://cdn.openmindmap.org/LICENSE.txt).
 
-Usage of this site implies an adherence to that license.
+**Usage of this site implies an adherence to that license**.
 
 | id | name| author | date | details |
 |----|-----|--------|------|---------|
@@ -13,3 +13,5 @@ Usage of this site implies an adherence to that license.
 | 90196166b57a77e5 |  Fastmail JMAP | Gerrit Riessen | 2023-07-28T15:02:10Z | [details](https://flowhub.org/f/90196166b57a77e5) |
 | d7f182b9ccdd6c48 |  Supercollidor | Gerrit Riessen | 2023-07-30T00:31:00Z | [details](https://flowhub.org/f/d7f182b9ccdd6c48) |
 | 3b1289d7ccf9cb0f |  flowviewer | Gerrit Riessen | 2023-07-29T13:06:12Z | [details](https://flowhub.org/f/3b1289d7ccf9cb0f) |
+
+Copyleft (c) FlowHub.org
