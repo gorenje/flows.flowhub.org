@@ -14,4 +14,4 @@ All flows found here are licensed under the [don't do evil license](https://cdn.
 | d7f182b9ccdd6c48 |  Supercollidor | Gerrit Riessen | 2023-07-30T00:31:00Z | [details](https://flowhub.org/f/d7f182b9ccdd6c48) |
 | 3b1289d7ccf9cb0f |  flowviewer | Gerrit Riessen | 2023-07-29T13:06:12Z | [details](https://flowhub.org/f/3b1289d7ccf9cb0f) |
 
-Copyleft (c) FlowHub.org
+Copyleft (Ɔ) FlowHub.org
