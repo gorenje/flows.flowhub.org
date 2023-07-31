@@ -18,7 +18,7 @@ All flows found here are licensed under the [don't do evil license](https://cdn.
 
 ## Repository
 
-All flows are hosted at [flows.flowhub.org](https://github.com/gorenje/flows.flowhub.org).
+All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje/flows.flowhub.org) which is a public repository.
 
 
 ## Flows
