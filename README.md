@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-## FlowHub: Gists for Node-RED
+# FlowHub: Gists for Node-RED
 
 These are sample flows that can be tried out in Node-RED. Each flow can be downloaded and imported into Node-RED.
 
