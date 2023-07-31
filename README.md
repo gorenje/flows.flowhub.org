@@ -4,11 +4,22 @@ permalink: /
 
 # FlowHub: Gists for Node-RED
 
-These are sample flows that can be tried out in Node-RED. Each flow can be downloaded and imported into Node-RED.
+FlowHub provides a [gist](https://en.wikipedia.org/wiki/GitHub#Gist)-like service for Node-RED making it possible to quickly share flows.
+
+Flows can be copied directly from FlowHub.org or imported using the [FlowHub nodes]().
+
+Upload is limited - at the moment - to [invitation only](mailto:apitoken@flowhub.org).
+
+## License
 
 All flows found here are licensed under the [don't do evil license](https://cdn.openmindmap.org/LICENSE.txt).
 
 **Usage of this site implies an adherence to that license**.
+
+## Repository
+
+All flows are hosted at [flows.flowhub.org](https://github.com/gorenje/flows.flowhub.org).
+
 
 | id | name| author | date | details |
 |----|-----|--------|------|---------|
