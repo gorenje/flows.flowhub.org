@@ -25,8 +25,8 @@ All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje
 
 Click on the name to view flow details.
 
-| id | name| author | date |
-|----|-----|--------|------|
+| Flow ID | Label | Author | Last Update |
+|---------|-------|--------|-------------|
 | 18a539afac758c61 |  [[Exp] Status Ticker](https://flowhub.org/f/18a539afac758c61) | Gerrit Riessen | 2023-08-03T16:43:03Z |
 | 390ee0021ded4910 |  [[GitHub] base functionality](https://flowhub.org/f/390ee0021ded4910) | Gerrit Riessen | 2023-07-31T20:51:21Z |
 | 31ea3193ec1a2117 |  [[GitHub] commit single file](https://flowhub.org/f/31ea3193ec1a2117) | Gerrit Riessen | 2023-07-31T20:55:53Z |
