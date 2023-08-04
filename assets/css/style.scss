@@ -6,3 +6,23 @@
 div.markdown-body > h1:first-child {
     display: none;
 }
+
+div.markdown-body > table {
+  max-width: 97%;
+  margin-top: 30px;
+  max-height: 500px;
+  overflow-y: scroll;
+  display: block;
+  border-collapse: unset !important;
+}
+
+div.markdown-body > table thead {
+  position: sticky;
+  top: 0px;
+}
+
+div.markdown-body > table thead tr {
+  background-color: #fcfcfcd1;
+   -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+}
