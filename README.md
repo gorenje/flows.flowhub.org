@@ -39,7 +39,7 @@ Click on the name to view flow details.
 | 4f3f93dc29d0f1f1 |  [[OSM] Obtain warmest places](https://flowhub.org/f/4f3f93dc29d0f1f1) | Gerrit Riessen | 2023-08-03 11:14:41Z |
 | 309658afddd23ce2 |  [[OSM] Websocket frontend](https://flowhub.org/f/309658afddd23ce2) | Gerrit Riessen | 2023-08-04 07:28:57Z |
 | e6d2f2acd930e100 |  [[OSM] http-in node](https://flowhub.org/f/e6d2f2acd930e100) | Gerrit Riessen | 2023-08-04 07:30:43Z |
-| efc6896326f55af7 |  [[RSS] Visualisation](https://flowhub.org/f/efc6896326f55af7) | Gerrit Riessen | 2023-08-04T09:11:23Z |
+| efc6896326f55af7 |  [[RSS] Visualisation](https://flowhub.org/f/efc6896326f55af7) | Gerrit Riessen | 2023-08-04T10:02:44Z |
 | 40ea5f2aea6592ae |  [[Web] Router](https://flowhub.org/f/40ea5f2aea6592ae) | Gerrit Riessen | 2023-08-01 11:01:31Z |
 
 ---
