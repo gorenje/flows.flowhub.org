@@ -18,6 +18,10 @@ div.markdown-body > table {
 
 div.markdown-body > table thead {
   position: sticky;
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
   top: 0px;
 }
 
