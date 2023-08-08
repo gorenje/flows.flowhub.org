@@ -1,0 +1,256 @@
+.quattro {
+    font: 18px/1.5 'League Spartan', sans-serif;
+}
+
+body {
+    color: #040506;
+    background-color: #fefcfc;
+    padding-bottom: 40px;
+}
+
+.fixed-top {
+    position: fixed !important;
+    top: 15px;
+    background-color: #fefcfc;
+    z-index: 100;
+}
+
+.group-highlight {
+    stroke: rgb(255, 127, 14);
+    stroke-width: 4px;
+    fill: rgb(255, 127, 14);
+    fill-opacity: 0.2;
+}
+
+pre {
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    border-left: 3px solid #f36d33;
+    color: #666;
+    page-break-inside: avoid;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 1.6em;
+    max-width: 100%;
+    overflow: auto;
+    padding: 1em 1.5em;
+    display: block;
+    word-wrap: break-word;
+}
+
+pre.mermaid-pre-container {
+    border-left: 1px solid #ddd !important;
+    width: 90%;
+    margin-left: 5%;
+}
+
+code.mermaid {
+    width: 100%;
+    margin-left: 0%;
+}
+
+div.svg-container {
+    width: 90% !important;
+    margin-left: 5% !important;
+    left: 0% !important;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    max-width: 100%;
+}
+
+a.ahl {
+    color: #f4a0a0;
+}
+
+.hljs-comment {
+    color: #e3b339 !important;
+}
+
+.hljs {
+    background: #f4f4f4 !important;
+}
+
+@media only screen and (min-width: 680px) {
+    #root {
+        margin: 0 auto;
+        width: 680px;
+    }
+    img {
+        width: 600px;
+    }
+}
+
+@media only screen and (min-width: 750px) {
+    #root {
+        margin: 0 auto;
+        width: 750px;
+    }
+    img {
+        width: 700px;
+    }
+}
+@media only screen and (max-width: 680px) {
+    #root {
+        margin: 0 auto;
+        width: 100%;
+    }
+    img {
+        width: 480px;
+    }
+    .quattro > h2:first-child {
+        font-size: 20px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #root {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    img {
+        width: 370px;
+    }
+    .quattro > h2:first-child {
+        font-size: 20px;
+        text-align: center;
+    }
+    .quattro {
+        font: 18px/1.5 'League Spartan', sans-serif;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    #root {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    img {
+        width: 300px;
+    }
+    .quattro > h2:first-child {
+        font-size: 20px;
+        text-align: center;
+    }
+    .quattro {
+        font: 18px/1.5 'League Spartan', sans-serif;
+    }
+}
+
+.last-updated {
+    font-size: 50%;
+}
+
+.sumpass-sumpass-text {
+    padding-left: 20px;
+    
+}
+.regular {
+    font-weight: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.normal {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.footer-div {
+    font-size: 75%;
+    border-top: 1px solid black;
+    padding-top: 4px;
+}
+
+.footer-div > span {
+    float: right;
+}
+
+h2 {
+    border-bottom: 1px solid black;
+}
+
+
+a {
+    color: rgb(0,0,200);
+    text-decoration: none;
+    text-decoration-style: dotted;
+}
+
+code {
+    background-color: #f4f4f4;
+    padding: 3px;
+    font-size: 80%;
+    display: inline-block;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+p {
+    margin-bottom: 1.4em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+/* Anchoer sttyling */
+
+h1 {
+  text-indent: -12px;
+}
+
+h2 {
+  text-indent: -10px;
+}
+
+h3 {
+  text-indent: -8px;
+}
+
+h4 {
+  text-indent: -6px;
+}
+
+h5 {
+  text-indent: -4px;
+}
+
+h6 {
+  text-indent: -2px;
+}
+
+h1 .octicon, h2 .octicon, h3 .octicon, h4 .octicon, h5 .octicon, h6 .octicon  {
+  visibility: hidden;
+}
+
+h1:hover .octicon, h2:hover .octicon, h3:hover .octicon, h4:hover .octicon, h5:hover .octicon, h6:hover .octicon {
+  visibility: visible;
+}
+
+.octicon {
+  fill: currentColor;
+  padding: 0;
+  margin-left: -16px;
+  vertical-align: middle;
+}
+
+@media only screen and (max-width: 680px) {
+    h1 .octicon, h2 .octicon, h3 .octicon, h4 .octicon, h5 .octicon, h6 .octicon {
+        visibility: visible;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        text-indent: 0px;
+    }
+    .octicon {
+        margin-left: 0px;
+    }
+}
