@@ -49,13 +49,14 @@
         <hr/>
       </xsl:for-each>
       </ul>
-      </div>
-      </div>
+      <hr>
       <p>
       <small><i>
         This is an RSS feed. Visit <a href="https://aboutfeeds.com">About Feeds</a> to learn more and get started. It’s free.
       </i></small>
       </p>
+        </div>
+      </div>
     </body>
     </html>
   </xsl:template>
