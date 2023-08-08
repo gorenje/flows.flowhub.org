@@ -16,8 +16,8 @@
     <entry>
     <title type="html">[Art] Firefly</title>
     <link href="https://flowhub.org/f/42e964ad34851488" rel="alternate" type="text/html" title="[Art] Firefly"/>
-    <published>2023-08-08T12:58:13Z</published>
-    <updated>2023-08-08T12:58:13Z</updated>
+    <published>2023-08-08 12:58:13Z</published>
+    <updated>2023-08-08 12:58:13Z</updated>
     <id>https://flowhub.org/f/42e964ad34851488</id>
     <content type="html" xml:base="https://flowhub.org/f/42e964ad34851488">
     [Art] Firefly
@@ -216,6 +216,18 @@
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/fafd7c807c192d4a/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/fafd7c807c192d4a/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
+    <title type="html">[NR] intro</title>
+    <link href="https://flowhub.org/f/7f8714fa6e835a2a" rel="alternate" type="text/html" title="[NR] intro"/>
+    <published>2023-08-08T15:01:16Z</published>
+    <updated>2023-08-08T15:01:16Z</updated>
+    <id>https://flowhub.org/f/7f8714fa6e835a2a</id>
+    <content type="html" xml:base="https://flowhub.org/f/7f8714fa6e835a2a">
+    [NR] intro
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7f8714fa6e835a2a/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7f8714fa6e835a2a/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
     <title type="html">[OSM] Obtain warmest places</title>
