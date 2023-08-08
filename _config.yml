@@ -1,3 +1,4 @@
 exclude:
   - '**/flows.json'
+  - '**/preview.png'
   - '.github/**'
