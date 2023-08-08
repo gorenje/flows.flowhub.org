@@ -14,6 +14,18 @@
 <uri>https://blog.openmindmap.org</uri>
 </author>
     <entry>
+    <title type="html">[Art] Firefly</title>
+    <link href="https://flowhub.org/f/42e964ad34851488" rel="alternate" type="text/html" title="[Art] Firefly"/>
+    <published>2023-08-08T12:37:19Z</published>
+    <updated>2023-08-08T12:37:19Z</updated>
+    <id>https://flowhub.org/f/42e964ad34851488</id>
+    <content type="html" xml:base="https://flowhub.org/f/42e964ad34851488">
+    [Art] Firefly
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/42e964ad34851488/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/42e964ad34851488/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Exp] Status Ticker</title>
     <link href="https://flowhub.org/f/18a539afac758c61" rel="alternate" type="text/html" title="[Exp] Status Ticker"/>
     <published>2023-08-03T16:43:03Z</published>
