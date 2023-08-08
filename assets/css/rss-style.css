@@ -83,7 +83,7 @@ body {
 
 .sumpass-sumpass-text {
     padding-left: 20px;
-    
+
 }
 .regular {
     font-weight: normal;
@@ -140,7 +140,9 @@ p {
 }
 
 /* Anchoer sttyling */
-
+ul {
+    list-style-type: none;
+}
 h1 {
   text-indent: -12px;
 }

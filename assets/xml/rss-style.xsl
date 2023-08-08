@@ -10,23 +10,23 @@
       <title>
         RSS Feed | <xsl:value-of select="/atom:feed/atom:title"/>
       </title>
-      <link rel="stylesheet" href="/assets/css/rss-style.css"/>
+      <link rel="stylesheet" href="/assets/css/rss-style.css?cb={{ _msgid }}"/>
     </head>
     <body>
 <div id="root">
       <div class="quattro">
-              
+
       <h1>Recent Flow Updates</h1>
-        
+      <hr/>
+
       <ul>
       <xsl:for-each select="/atom:feed/atom:entry">
-        <li style="min-height: 85px; height: 180px;"> 
+        <li>
           <xsl:if test="media:thumbnails/@url != ''">
-          <img style="float: right;">
+          <img>
           <xsl:attribute name="src">
             <xsl:value-of select="media:thumbnails/@url"/>
           </xsl:attribute>
-          <xsl:attribute name="style">float: right;</xsl:attribute>
           </img>
           </xsl:if>
           <a>
@@ -35,9 +35,6 @@
           </xsl:attribute>
           <xsl:value-of select="atom:title"/>
         </a>
-        <ul>
-          <li><xsl:value-of select="atom:content"/></li>
-        </ul>
         <br/>
         Published:
         <xsl:value-of select="substring(atom:published, 0, 11)" />
