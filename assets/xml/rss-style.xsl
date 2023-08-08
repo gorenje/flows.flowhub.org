@@ -26,9 +26,7 @@
           <xsl:attribute name="src">
             <xsl:value-of select="media:thumbnails/@url"/>
           </xsl:attribute>
-          <xsl:attribute name="style">width: 80px !important; height: 80px !important; float: right;</xsl:attribute>
-          <xsl:attribute name="height">80px</xsl:attribute>
-          <xsl:attribute name="width">80px</xsl:attribute>
+          <xsl:attribute name="style">float: right;</xsl:attribute>
           </img>
           </xsl:if>
           <a>
