@@ -8,69 +8,6 @@ body {
     padding-bottom: 40px;
 }
 
-.fixed-top {
-    position: fixed !important;
-    top: 15px;
-    background-color: #fefcfc;
-    z-index: 100;
-}
-
-.group-highlight {
-    stroke: rgb(255, 127, 14);
-    stroke-width: 4px;
-    fill: rgb(255, 127, 14);
-    fill-opacity: 0.2;
-}
-
-pre {
-    background: #f4f4f4;
-    border: 1px solid #ddd;
-    border-left: 3px solid #f36d33;
-    color: #666;
-    page-break-inside: avoid;
-    font-family: monospace;
-    font-size: 15px;
-    line-height: 1.6;
-    margin-bottom: 1.6em;
-    max-width: 100%;
-    overflow: auto;
-    padding: 1em 1.5em;
-    display: block;
-    word-wrap: break-word;
-}
-
-pre.mermaid-pre-container {
-    border-left: 1px solid #ddd !important;
-    width: 90%;
-    margin-left: 5%;
-}
-
-code.mermaid {
-    width: 100%;
-    margin-left: 0%;
-}
-
-div.svg-container {
-    width: 90% !important;
-    margin-left: 5% !important;
-    left: 0% !important;
-    padding-left: 1.5em;
-    padding-right: 1.5em;
-    max-width: 100%;
-}
-
-a.ahl {
-    color: #f4a0a0;
-}
-
-.hljs-comment {
-    color: #e3b339 !important;
-}
-
-.hljs {
-    background: #f4f4f4 !important;
-}
-
 @media only screen and (min-width: 680px) {
     #root {
         margin: 0 auto;
@@ -234,23 +171,4 @@ h1 .octicon, h2 .octicon, h3 .octicon, h4 .octicon, h5 .octicon, h6 .octicon  {
 
 h1:hover .octicon, h2:hover .octicon, h3:hover .octicon, h4:hover .octicon, h5:hover .octicon, h6:hover .octicon {
   visibility: visible;
-}
-
-.octicon {
-  fill: currentColor;
-  padding: 0;
-  margin-left: -16px;
-  vertical-align: middle;
-}
-
-@media only screen and (max-width: 680px) {
-    h1 .octicon, h2 .octicon, h3 .octicon, h4 .octicon, h5 .octicon, h6 .octicon {
-        visibility: visible;
-    }
-    h1, h2, h3, h4, h5, h6 {
-        text-indent: 0px;
-    }
-    .octicon {
-        margin-left: 0px;
-    }
 }
