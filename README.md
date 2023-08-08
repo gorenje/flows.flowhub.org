@@ -23,7 +23,7 @@ All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje
 
 ## Flows
 
-For a complete list of flows please see [feed.xml](https://flows.flowhub.org/feed.xml) or the [sitemap.xml](https://flows.flowhub.org/sitemap.xml).
+A [complete list](https://flows.flowhub.org/feed.xml).
 
 ---
 Copyleft (Ɔ) FlowHub.org + [OpenMindMap.org](https://blog.openmindmap.org)
