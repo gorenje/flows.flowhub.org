@@ -16,14 +16,26 @@
     <entry>
     <title type="html">Node-RED Introduction - part 1</title>
     <link href="https://flowhub.org/f/7f8714fa6e835a2a" rel="alternate" type="text/html" title="Node-RED Introduction - part 1"/>
-    <published>2023-08-08T16:41:18Z</published>
-    <updated>2023-08-08T16:41:18Z</updated>
+    <published>2023-08-08 16:41:18Z</published>
+    <updated>2023-08-08 16:41:18Z</updated>
     <id>https://flowhub.org/f/7f8714fa6e835a2a</id>
     <content type="html" xml:base="https://flowhub.org/f/7f8714fa6e835a2a">
     Node-RED Introduction - part 1
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7f8714fa6e835a2a/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7f8714fa6e835a2a/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
+    <title type="html">Node-RED Learnings - Split &amp; Join - don&#39;t drop messages</title>
+    <link href="https://flowhub.org/f/1cf772ae2066495e" rel="alternate" type="text/html" title="Node-RED Learnings - Split &amp; Join - don&#39;t drop messages"/>
+    <published>2023-08-08 20:59:31Z</published>
+    <updated>2023-08-08 20:59:31Z</updated>
+    <id>https://flowhub.org/f/1cf772ae2066495e</id>
+    <content type="html" xml:base="https://flowhub.org/f/1cf772ae2066495e">
+    Node-RED Learnings - Split &amp; Join - don&#39;t drop messages
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/1cf772ae2066495e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/1cf772ae2066495e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
     <title type="html">[Art] Firefly</title>
