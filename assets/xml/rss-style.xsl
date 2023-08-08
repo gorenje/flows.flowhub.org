@@ -15,12 +15,9 @@
     <body>
 <div id="root">
       <div class="quattro">
-              <p>
-        This is an RSS feed. Visit
-        <a href="https://aboutfeeds.com">About Feeds</a>
-        to learn more and get started. It’s free.
-      </p>
-      <h1>Recent blog posts</h1>
+              
+      <h1>Recent Flow Updates</h1>
+        
       <ul>
       <xsl:for-each select="/atom:feed/atom:entry">
         <li style="min-height: 85px; height: 180px;"> 
@@ -54,6 +51,11 @@
       </ul>
       </div>
       </div>
+      <p>
+      <small><i>
+        This is an RSS feed. Visit <a href="https://aboutfeeds.com">About Feeds</a> to learn more and get started. It’s free.
+      </i></small>
+      </p>
     </body>
     </html>
   </xsl:template>
