@@ -16,8 +16,8 @@
     <entry>
     <title type="html">[Art] Firefly</title>
     <link href="https://flowhub.org/f/42e964ad34851488" rel="alternate" type="text/html" title="[Art] Firefly"/>
-    <published>2023-08-08 12:58:13Z</published>
-    <updated>2023-08-08 12:58:13Z</updated>
+    <published>2023-08-08T12:58:13Z</published>
+    <updated>2023-08-08T12:58:13Z</updated>
     <id>https://flowhub.org/f/42e964ad34851488</id>
     <content type="html" xml:base="https://flowhub.org/f/42e964ad34851488">
     [Art] Firefly
@@ -52,8 +52,8 @@
     <entry>
     <title type="html">[GitHub] commit single file</title>
     <link href="https://flowhub.org/f/31ea3193ec1a2117" rel="alternate" type="text/html" title="[GitHub] commit single file"/>
-    <published>2023-08-07 18:58:43Z</published>
-    <updated>2023-08-07 18:58:43Z</updated>
+    <published>2023-08-07T18:58:43Z</published>
+    <updated>2023-08-07T18:58:43Z</updated>
     <id>https://flowhub.org/f/31ea3193ec1a2117</id>
     <content type="html" xml:base="https://flowhub.org/f/31ea3193ec1a2117">
     [GitHub] commit single file
@@ -76,8 +76,8 @@
     <entry>
     <title type="html">[GitHub] get file contents</title>
     <link href="https://flowhub.org/f/d104825b996e7cef" rel="alternate" type="text/html" title="[GitHub] get file contents"/>
-    <published>2023-07-31 21:03:42Z</published>
-    <updated>2023-07-31 21:03:42Z</updated>
+    <published>2023-07-31T21:03:42Z</published>
+    <updated>2023-07-31T21:03:42Z</updated>
     <id>https://flowhub.org/f/d104825b996e7cef</id>
     <content type="html" xml:base="https://flowhub.org/f/d104825b996e7cef">
     [GitHub] get file contents
@@ -112,8 +112,8 @@
     <entry>
     <title type="html">[Introspection] DrawSVG</title>
     <link href="https://flowhub.org/f/141037dcda5b69fd" rel="alternate" type="text/html" title="[Introspection] DrawSVG"/>
-    <published>2023-08-05 12:57:46Z</published>
-    <updated>2023-08-05 12:57:46Z</updated>
+    <published>2023-08-05T12:57:46Z</published>
+    <updated>2023-08-05T12:57:46Z</updated>
     <id>https://flowhub.org/f/141037dcda5b69fd</id>
     <content type="html" xml:base="https://flowhub.org/f/141037dcda5b69fd">
     [Introspection] DrawSVG
@@ -184,8 +184,8 @@
     <entry>
     <title type="html">[Jmap] Email over Json</title>
     <link href="https://flowhub.org/f/90196166b57a77e5" rel="alternate" type="text/html" title="[Jmap] Email over Json"/>
-    <published>2023-07-31 20:57:50Z</published>
-    <updated>2023-07-31 20:57:50Z</updated>
+    <published>2023-07-31T20:57:50Z</published>
+    <updated>2023-07-31T20:57:50Z</updated>
     <id>https://flowhub.org/f/90196166b57a77e5</id>
     <content type="html" xml:base="https://flowhub.org/f/90196166b57a77e5">
     [Jmap] Email over Json
