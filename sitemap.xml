@@ -3,7 +3,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://flowhub.org/f/42e964ad34851488</loc>
-    <lastmod>2023-08-08T12:58:13Z</lastmod>
+    <lastmod>2023-08-08 12:58:13Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -100,6 +100,12 @@
   <url>
     <loc>https://flowhub.org/f/fafd7c807c192d4a</loc>
     <lastmod>2023-07-31T20:59:44Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://flowhub.org/f/7f8714fa6e835a2a</loc>
+    <lastmod>2023-08-08T15:01:16Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
