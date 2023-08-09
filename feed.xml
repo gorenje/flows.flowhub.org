@@ -28,8 +28,8 @@
     <entry>
     <title type="html">Node-RED Learnings - Split &amp; Join - don&#39;t drop messages</title>
     <link href="https://flowhub.org/f/1cf772ae2066495e" rel="alternate" type="text/html" title="Node-RED Learnings - Split &amp; Join - don&#39;t drop messages"/>
-    <published>2023-08-08T21:48:06Z</published>
-    <updated>2023-08-08T21:48:06Z</updated>
+    <published>2023-08-08 21:48:06Z</published>
+    <updated>2023-08-08 21:48:06Z</updated>
     <id>https://flowhub.org/f/1cf772ae2066495e</id>
     <content type="html" xml:base="https://flowhub.org/f/1cf772ae2066495e">
     Node-RED Learnings - Split &amp; Join - don&#39;t drop messages
@@ -64,8 +64,8 @@
     <entry>
     <title type="html">[Exp] Status Ticker</title>
     <link href="https://flowhub.org/f/18a539afac758c61" rel="alternate" type="text/html" title="[Exp] Status Ticker"/>
-    <published>2023-08-03T16:43:03Z</published>
-    <updated>2023-08-03T16:43:03Z</updated>
+    <published>2023-08-03 16:43:03Z</published>
+    <updated>2023-08-03 16:43:03Z</updated>
     <id>https://flowhub.org/f/18a539afac758c61</id>
     <content type="html" xml:base="https://flowhub.org/f/18a539afac758c61">
     [Exp] Status Ticker
@@ -120,6 +120,18 @@
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/d104825b996e7cef/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/d104825b996e7cef/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
+    <title type="html">[Html2Csv] GMX.de mailinglist export</title>
+    <link href="https://flowhub.org/f/869d7d0b5c603936" rel="alternate" type="text/html" title="[Html2Csv] GMX.de mailinglist export"/>
+    <published>2023-08-09T15:59:08Z</published>
+    <updated>2023-08-09T15:59:08Z</updated>
+    <id>https://flowhub.org/f/869d7d0b5c603936</id>
+    <content type="html" xml:base="https://flowhub.org/f/869d7d0b5c603936">
+    [Html2Csv] GMX.de mailinglist export
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/869d7d0b5c603936/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/869d7d0b5c603936/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
     <title type="html">[I2C] Scroll pHAT</title>
