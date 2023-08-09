@@ -22,13 +22,20 @@
       <ul>
       <xsl:for-each select="/atom:feed/atom:entry">
         <li>
+          
           <xsl:if test="media:thumbnails/@url != ''">
+          <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="atom:link/@href"/>
+          </xsl:attribute>
           <img>
           <xsl:attribute name="src">
             <xsl:value-of select="media:thumbnails/@url"/>
           </xsl:attribute>
           </img>
+          </a>
           </xsl:if>
+
           <a>
           <xsl:attribute name="href">
             <xsl:value-of select="atom:link/@href"/>
