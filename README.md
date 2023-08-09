@@ -27,9 +27,23 @@ A [complete list](https://flows.flowhub.org/feed.xml).
 
 ## Example Flows
 
+1)
+
 <img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7f8714fa6e835a2a/preview.png" width="400"/>  
+
 [Node-RED Introduction - part 1](https://flowhub.org/f/7f8714fa6e835a2a)
 
+2)
+
+<img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/be2109bba90b6c5a/preview.png" width="400"/>
+
+[Using I2C bus to do something useful](https://flowhub.org/f/be2109bba90b6c5a)
+
+3)
+
+<img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/431fa52279b0d11b/preview.png" width="400"/>
+
+[Node-RED Learnings: what is empty and what is not empty?](https://flowhub.org/f/431fa52279b0d11b)
 
 
 ---
