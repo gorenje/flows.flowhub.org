@@ -16,8 +16,8 @@
     <entry>
     <title type="html">Node-RED Introduction - part 1</title>
     <link href="https://flowhub.org/f/7f8714fa6e835a2a" rel="alternate" type="text/html" title="Node-RED Introduction - part 1"/>
-    <published>2023-08-08 16:41:18Z</published>
-    <updated>2023-08-08 16:41:18Z</updated>
+    <published>2023-08-08T16:41:18Z</published>
+    <updated>2023-08-08T16:41:18Z</updated>
     <id>https://flowhub.org/f/7f8714fa6e835a2a</id>
     <content type="html" xml:base="https://flowhub.org/f/7f8714fa6e835a2a">
     Node-RED Introduction - part 1
@@ -28,8 +28,8 @@
     <entry>
     <title type="html">Node-RED Learnings - Split &amp; Join - don&#39;t drop messages</title>
     <link href="https://flowhub.org/f/1cf772ae2066495e" rel="alternate" type="text/html" title="Node-RED Learnings - Split &amp; Join - don&#39;t drop messages"/>
-    <published>2023-08-08 21:48:06Z</published>
-    <updated>2023-08-08 21:48:06Z</updated>
+    <published>2023-08-08T21:48:06Z</published>
+    <updated>2023-08-08T21:48:06Z</updated>
     <id>https://flowhub.org/f/1cf772ae2066495e</id>
     <content type="html" xml:base="https://flowhub.org/f/1cf772ae2066495e">
     Node-RED Learnings - Split &amp; Join - don&#39;t drop messages
@@ -40,8 +40,8 @@
     <entry>
     <title type="html">Node-RED Learnings: what is empty and what is not empty?</title>
     <link href="https://flowhub.org/f/431fa52279b0d11b" rel="alternate" type="text/html" title="Node-RED Learnings: what is empty and what is not empty?"/>
-    <published>2023-08-08 21:17:31Z</published>
-    <updated>2023-08-08 21:17:31Z</updated>
+    <published>2023-08-08T21:17:31Z</published>
+    <updated>2023-08-08T21:17:31Z</updated>
     <id>https://flowhub.org/f/431fa52279b0d11b</id>
     <content type="html" xml:base="https://flowhub.org/f/431fa52279b0d11b">
     Node-RED Learnings: what is empty and what is not empty?
@@ -52,8 +52,8 @@
     <entry>
     <title type="html">[Art] Firefly</title>
     <link href="https://flowhub.org/f/42e964ad34851488" rel="alternate" type="text/html" title="[Art] Firefly"/>
-    <published>2023-08-08 15:36:38Z</published>
-    <updated>2023-08-08 15:36:38Z</updated>
+    <published>2023-08-08T15:36:38Z</published>
+    <updated>2023-08-08T15:36:38Z</updated>
     <id>https://flowhub.org/f/42e964ad34851488</id>
     <content type="html" xml:base="https://flowhub.org/f/42e964ad34851488">
     [Art] Firefly
@@ -64,8 +64,8 @@
     <entry>
     <title type="html">[Exp] Status Ticker</title>
     <link href="https://flowhub.org/f/18a539afac758c61" rel="alternate" type="text/html" title="[Exp] Status Ticker"/>
-    <published>2023-08-03 16:43:03Z</published>
-    <updated>2023-08-03 16:43:03Z</updated>
+    <published>2023-08-03T16:43:03Z</published>
+    <updated>2023-08-03T16:43:03Z</updated>
     <id>https://flowhub.org/f/18a539afac758c61</id>
     <content type="html" xml:base="https://flowhub.org/f/18a539afac758c61">
     [Exp] Status Ticker
@@ -76,8 +76,8 @@
     <entry>
     <title type="html">[GitHub] base functionality</title>
     <link href="https://flowhub.org/f/390ee0021ded4910" rel="alternate" type="text/html" title="[GitHub] base functionality"/>
-    <published>2023-08-09 08:05:23Z</published>
-    <updated>2023-08-09 08:05:23Z</updated>
+    <published>2023-08-09T08:05:23Z</published>
+    <updated>2023-08-09T08:05:23Z</updated>
     <id>https://flowhub.org/f/390ee0021ded4910</id>
     <content type="html" xml:base="https://flowhub.org/f/390ee0021ded4910">
     [GitHub] base functionality
@@ -88,8 +88,8 @@
     <entry>
     <title type="html">[GitHub] commit single file</title>
     <link href="https://flowhub.org/f/31ea3193ec1a2117" rel="alternate" type="text/html" title="[GitHub] commit single file"/>
-    <published>2023-08-07 18:58:43Z</published>
-    <updated>2023-08-07 18:58:43Z</updated>
+    <published>2023-08-07T18:58:43Z</published>
+    <updated>2023-08-07T18:58:43Z</updated>
     <id>https://flowhub.org/f/31ea3193ec1a2117</id>
     <content type="html" xml:base="https://flowhub.org/f/31ea3193ec1a2117">
     [GitHub] commit single file
@@ -100,8 +100,8 @@
     <entry>
     <title type="html">[GitHub] get all commits for repo</title>
     <link href="https://flowhub.org/f/ebc05a6d47a9a190" rel="alternate" type="text/html" title="[GitHub] get all commits for repo"/>
-    <published>2023-08-01 08:22:30Z</published>
-    <updated>2023-08-01 08:22:30Z</updated>
+    <published>2023-08-01T08:22:30Z</published>
+    <updated>2023-08-01T08:22:30Z</updated>
     <id>https://flowhub.org/f/ebc05a6d47a9a190</id>
     <content type="html" xml:base="https://flowhub.org/f/ebc05a6d47a9a190">
     [GitHub] get all commits for repo
@@ -112,8 +112,8 @@
     <entry>
     <title type="html">[GitHub] get file contents</title>
     <link href="https://flowhub.org/f/d104825b996e7cef" rel="alternate" type="text/html" title="[GitHub] get file contents"/>
-    <published>2023-07-31 21:03:42Z</published>
-    <updated>2023-07-31 21:03:42Z</updated>
+    <published>2023-07-31T21:03:42Z</published>
+    <updated>2023-07-31T21:03:42Z</updated>
     <id>https://flowhub.org/f/d104825b996e7cef</id>
     <content type="html" xml:base="https://flowhub.org/f/d104825b996e7cef">
     [GitHub] get file contents
@@ -316,8 +316,8 @@
     <entry>
     <title type="html">[Web] Router</title>
     <link href="https://flowhub.org/f/40ea5f2aea6592ae" rel="alternate" type="text/html" title="[Web] Router"/>
-    <published>2023-08-01 11:01:31Z</published>
-    <updated>2023-08-01 11:01:31Z</updated>
+    <published>2023-08-01T11:01:31Z</published>
+    <updated>2023-08-01T11:01:31Z</updated>
     <id>https://flowhub.org/f/40ea5f2aea6592ae</id>
     <content type="html" xml:base="https://flowhub.org/f/40ea5f2aea6592ae">
     [Web] Router
