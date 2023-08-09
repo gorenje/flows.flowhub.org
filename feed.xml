@@ -38,6 +38,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/1cf772ae2066495e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">Node-RED Learnings - Switch - Check all rules v. Stop after first match</title>
+    <link href="https://flowhub.org/f/ea246f68766c8630" rel="alternate" type="text/html" title="Node-RED Learnings - Switch - Check all rules v. Stop after first match"/>
+    <published>2023-08-09T17:36:01Z</published>
+    <updated>2023-08-09T17:36:01Z</updated>
+    <id>https://flowhub.org/f/ea246f68766c8630</id>
+    <content type="html" xml:base="https://flowhub.org/f/ea246f68766c8630">
+    Node-RED Learnings - Switch - Check all rules v. Stop after first match
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/ea246f68766c8630/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/ea246f68766c8630/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">Node-RED Learnings: what is empty and what is not empty?</title>
     <link href="https://flowhub.org/f/431fa52279b0d11b" rel="alternate" type="text/html" title="Node-RED Learnings: what is empty and what is not empty?"/>
     <published>2023-08-08 21:17:31Z</published>
