@@ -10,9 +10,15 @@ Flows can be copied directly from FlowHub.org or imported using the [FlowHub nod
 
 At the moment, to upload a flow an API token is required. To obtain and token, please send an [email](mailto:request.apitoken@flowhub.org) explaining what, why, when, how, and whether you would like to use FlowHub for. For more details, please have a <a href="https://discourse.nodered.org/t/flowhub-org-gists-for-node-red/80215">read of the authors</a> reasoning for FlowHub.org.
 
+## Goals
+
+FlowHub aims to promote visual programming by providing tools that every programmer would expect from a programming language. FlowHub.org explores what it means to apply concepts such as refactoring, design patterns, unit tests, code sharing and version control in the context of a visual programming environment such as Node-RED. 
+
+Years of textual-based programming has created a body of concepts, wisdoms and best-practices that must be transported and applied in a visual-based programming environment. Some of these ideas might prove to become redundant in a visual environment and new ideas will arise, the best fit remains to be found.
+
 ## License
 
-All flows found here are licensed under the [don't do evil license](https://cdn.openmindmap.org/LICENSE.txt).
+All flows found here are licensed under the [don't do evil license](https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/LICENSE).
 
 **Usage of FlowHub.org implies an adherence to that license.**.
 
