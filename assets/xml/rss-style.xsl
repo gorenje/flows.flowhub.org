@@ -23,6 +23,14 @@
       <xsl:for-each select="/atom:feed/atom:entry">
         <li>
           
+          <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="atom:link/@href"/>
+          </xsl:attribute>
+          <xsl:value-of select="atom:title"/>
+        </a>
+        <br/>
+        
           <xsl:if test="media:thumbnails/@url != ''">
           <a>
           <xsl:attribute name="href">
@@ -36,12 +44,6 @@
           </a>
           </xsl:if>
 
-          <a>
-          <xsl:attribute name="href">
-            <xsl:value-of select="atom:link/@href"/>
-          </xsl:attribute>
-          <xsl:value-of select="atom:title"/>
-        </a>
         <br/>
         Published:
         <xsl:value-of select="substring(atom:published, 0, 11)" />
