@@ -8,13 +8,19 @@ body {
     padding-bottom: 40px;
 }
 
+.quattro img {
+  border: 1px solid rgb(201, 201, 201);
+  max-width: 90%;
+  margin-left: 5%;
+}
+
 @media only screen and (min-width: 680px) {
     #root {
         margin: 0 auto;
         width: 680px;
     }
     img {
-        width: 600px;
+        width: 400px;
     }
 }
 
@@ -24,7 +30,7 @@ body {
         width: 750px;
     }
     img {
-        width: 700px;
+        width: 400px;
     }
 }
 @media only screen and (max-width: 680px) {
@@ -33,7 +39,7 @@ body {
         width: 100%;
     }
     img {
-        width: 480px;
+        width: 400px;
     }
     .quattro > h2:first-child {
         font-size: 20px;
@@ -48,7 +54,7 @@ body {
     }
 
     img {
-        width: 370px;
+        width: 300px;
     }
     .quattro > h2:first-child {
         font-size: 20px;
@@ -66,7 +72,7 @@ body {
     }
 
     img {
-        width: 300px;
+        width: 200px;
     }
     .quattro > h2:first-child {
         font-size: 20px;
@@ -165,12 +171,4 @@ h5 {
 
 h6 {
   text-indent: -2px;
-}
-
-h1 .octicon, h2 .octicon, h3 .octicon, h4 .octicon, h5 .octicon, h6 .octicon  {
-  visibility: hidden;
-}
-
-h1:hover .octicon, h2:hover .octicon, h3:hover .octicon, h4:hover .octicon, h5:hover .octicon, h6:hover .octicon {
-  visibility: visible;
 }
