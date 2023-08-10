@@ -23,7 +23,7 @@ All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje
 
 ## Flows
 
-A [complete list](https://flows.flowhub.org/feed.xml).
+A [complete collection](https://flows.flowhub.org/feed.xml) of flows is available, they cover a broad spectrum of Node-RED functionality.
 
 ## Example Flows
 
