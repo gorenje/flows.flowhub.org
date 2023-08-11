@@ -53,4 +53,4 @@ A [complete collection](https://flows.flowhub.org/feed.xml) of flows is availabl
 
 
 ---
-Copyleft (Ɔ) FlowHub.org + [OpenMindMap.org](https://blog.openmindmap.org)
+Copyleft (Ɔ) FlowHub.org + [OpenMindMap.org](https://blog.openmindmap.org) | [Feedback](mailto:feedback.frontpage@flowhub.org) | [RSS](https://flows.flowhub.org/feed.xml)
