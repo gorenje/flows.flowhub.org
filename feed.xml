@@ -208,8 +208,8 @@
     <entry>
     <title type="html">[Introspection] Orphans</title>
     <link href="https://flowhub.org/f/2401c255b056e0e1" rel="alternate" type="text/html" title="[Introspection] Orphans"/>
-    <published>2023-08-05T13:34:08Z</published>
-    <updated>2023-08-05T13:34:08Z</updated>
+    <published>2023-08-05 13:34:08Z</published>
+    <updated>2023-08-05 13:34:08Z</updated>
     <id>https://flowhub.org/f/2401c255b056e0e1</id>
     <content type="html" xml:base="https://flowhub.org/f/2401c255b056e0e1">
     [Introspection] Orphans
@@ -336,6 +336,18 @@
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/efc6896326f55af7/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/efc6896326f55af7/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
+    <title type="html">[SVG] Testing SVG Graphics node</title>
+    <link href="https://flowhub.org/f/3ebb65fdbecb182e" rel="alternate" type="text/html" title="[SVG] Testing SVG Graphics node"/>
+    <published>2023-08-11T12:29:19Z</published>
+    <updated>2023-08-11T12:29:19Z</updated>
+    <id>https://flowhub.org/f/3ebb65fdbecb182e</id>
+    <content type="html" xml:base="https://flowhub.org/f/3ebb65fdbecb182e">
+    [SVG] Testing SVG Graphics node
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/3ebb65fdbecb182e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/3ebb65fdbecb182e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
     <title type="html">[Web] Router</title>
