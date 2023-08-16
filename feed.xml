@@ -338,6 +338,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/efc6896326f55af7/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Refactor] Visual Clarification</title>
+    <link href="https://flowhub.org/f/0e07ddb58be5f031" rel="alternate" type="text/html" title="[Refactor] Visual Clarification"/>
+    <published>2023-08-16 10:59:15Z</published>
+    <updated>2023-08-16 10:59:15Z</updated>
+    <id>https://flowhub.org/f/0e07ddb58be5f031</id>
+    <content type="html" xml:base="https://flowhub.org/f/0e07ddb58be5f031">
+    [Refactor] Visual Clarification
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/0e07ddb58be5f031/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/0e07ddb58be5f031/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[SVG] Testing SVG Graphics node</title>
     <link href="https://flowhub.org/f/3ebb65fdbecb182e" rel="alternate" type="text/html" title="[SVG] Testing SVG Graphics node"/>
     <published>2023-08-11 22:23:12Z</published>
