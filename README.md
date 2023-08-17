@@ -35,9 +35,10 @@ A [complete collection](https://flows.flowhub.org/feed.xml) of flows is availabl
 
 1)
 
-<a href="https://flowhub.org/f/7f8714fa6e835a2a"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7f8714fa6e835a2a/preview.png" width="400"/></a>
+<a href="https://flowhub.org/f/431fa52279b0d11b"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/431fa52279b0d11b/preview.png" width="400"/></a>
 
-[Node-RED Introduction - part 1](https://flowhub.org/f/7f8714fa6e835a2a)
+[Node-RED Learnings: what is empty and what is not empty?](https://flowhub.org/f/431fa52279b0d11b)
+
 
 2)
 
@@ -45,11 +46,12 @@ A [complete collection](https://flows.flowhub.org/feed.xml) of flows is availabl
 
 [Using I2C bus to do something useful](https://flowhub.org/f/be2109bba90b6c5a)
 
+
 3)
 
-<a href="https://flowhub.org/f/431fa52279b0d11b"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/431fa52279b0d11b/preview.png" width="400"/></a>
+<a href="https://flowhub.org/f/0e07ddb58be5f031"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/0e07ddb58be5f031/preview.png" width="400"/></a>
 
-[Node-RED Learnings: what is empty and what is not empty?](https://flowhub.org/f/431fa52279b0d11b)
+[Visualising Refactoring - achieving visual clarity](https://flowhub.org/f/0e07ddb58be5f031)
 
 
 ---
