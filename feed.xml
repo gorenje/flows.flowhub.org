@@ -40,14 +40,26 @@
     <entry>
     <title type="html">Hello World - part 3: Data Reuse</title>
     <link href="https://flowhub.org/f/722b6181086e9abe" rel="alternate" type="text/html" title="Hello World - part 3: Data Reuse"/>
-    <published>2023-08-26 09:24:19Z</published>
-    <updated>2023-08-26 09:24:19Z</updated>
+    <published>2023-08-26 09:30:58Z</published>
+    <updated>2023-08-26 09:30:58Z</updated>
     <id>https://flowhub.org/f/722b6181086e9abe</id>
     <content type="html" xml:base="https://flowhub.org/f/722b6181086e9abe">
     Hello World - part 3: Data Reuse
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/722b6181086e9abe/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/722b6181086e9abe/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
+    <title type="html">Hello World - part 4: Function Reuse</title>
+    <link href="https://flowhub.org/f/67a6db53dc49ae4c" rel="alternate" type="text/html" title="Hello World - part 4: Function Reuse"/>
+    <published>2023-08-26 09:31:02Z</published>
+    <updated>2023-08-26 09:31:02Z</updated>
+    <id>https://flowhub.org/f/67a6db53dc49ae4c</id>
+    <content type="html" xml:base="https://flowhub.org/f/67a6db53dc49ae4c">
+    Hello World - part 4: Function Reuse
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/67a6db53dc49ae4c/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/67a6db53dc49ae4c/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
     <title type="html">Node-RED Introduction - part 1</title>
