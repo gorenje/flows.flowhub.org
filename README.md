@@ -4,7 +4,7 @@ permalink: /
 
 # FlowHub: Gists for Node-RED
 
-FlowHub is an experimental platform offering a concept for the *visual* sharing of Node-RED code. Node-RED is a visual development platform and therefore it makes sense to *visually* share code snippets.
+FlowHub is an experimental platform representing a concept for the *visual* sharing of Node-RED code. Node-RED is a visual development platform and therefore it makes sense to *visually* share code snippets.
 
 Flows can be copied directly from FlowHub.org or imported using the [FlowHub nodes](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub). Flows can be uploaded either using an API token or a valid email address.
 
