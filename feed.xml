@@ -14,13 +14,13 @@
 <uri>https://blog.openmindmap.org</uri>
 </author>
     <entry>
-    <title type="html">Hello World</title>
-    <link href="https://flowhub.org/f/7bac2d969ad2969f" rel="alternate" type="text/html" title="Hello World"/>
-    <published>2023-08-25 14:31:06Z</published>
-    <updated>2023-08-25 14:31:06Z</updated>
+    <title type="html">Hello World - part 1: Input &amp; Output</title>
+    <link href="https://flowhub.org/f/7bac2d969ad2969f" rel="alternate" type="text/html" title="Hello World - part 1: Input &amp; Output"/>
+    <published>2023-08-26 06:57:19Z</published>
+    <updated>2023-08-26 06:57:19Z</updated>
     <id>https://flowhub.org/f/7bac2d969ad2969f</id>
     <content type="html" xml:base="https://flowhub.org/f/7bac2d969ad2969f">
-    Hello World
+    Hello World - part 1: Input &amp; Output
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7bac2d969ad2969f/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7bac2d969ad2969f/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
