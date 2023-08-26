@@ -4,11 +4,9 @@ permalink: /
 
 # FlowHub: Gists for Node-RED
 
-FlowHub provides a [gist](https://en.wikipedia.org/wiki/GitHub#Gist)-like service for [Node-RED](https://nodered.org) making it possible to quickly share flows.
+FlowHub is an experimental platform offering a concept for the *visual* sharing of Node-RED code. Node-RED is a visual development platform and therefore it makes sense to *visually* share code snippets.
 
-Flows can be copied directly from FlowHub.org or imported using the [FlowHub nodes](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub).
-
-At the moment, to upload a flow an API token is required. To obtain and token, please send an [email](mailto:request.apitoken@flowhub.org) explaining what, why, when, how, and whether you would like to use FlowHub for. For more details, please have a <a href="https://discourse.nodered.org/t/flowhub-org-gists-for-node-red/80215">read of the authors</a> reasoning for FlowHub.org.
+Flows can be copied directly from FlowHub.org or imported using the [FlowHub nodes](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub). Flows can be uploaded either using an API token or a valid email address.
 
 ## Goals
 
@@ -32,6 +30,13 @@ All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje
 Currently there are 39 flows explaining some aspect of Node-RED, a [complete collection](https://flows.flowhub.org/feed.xml) of flows is available.
 
 ## Examples
+
+0)
+
+<a href="https://flowhub.org/f/7bac2d969ad2969f"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7bac2d969ad2969f/preview.png" width="400"/></a>
+
+[Hello World in Node-RED](https://flowhub.org/f/7bac2d969ad2969f)
+
 
 1)
 
