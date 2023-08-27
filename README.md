@@ -2,11 +2,17 @@
 permalink: /
 ---
 
-# FlowHub: Gists for Node-RED
+# FlowHub: Visual Node-RED code sharing
 
-FlowHub is an experimental platform representing a concept for the *visual* sharing of [Node-RED](https://nodered.org) code. Node-RED is a visual development platform and therefore it makes sense to *visually* share code snippets.
+[FlowHub.org](https://flowhub.org) is an experimental platform for *visually* sharing Node-RED code. 
 
-Flows can be copied directly from FlowHub.org or imported using the [FlowHub nodes](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub). Flows can be uploaded either using an API token or a valid email address.
+[Node-RED](https://nodered.org) is a visual development platform providing several *textual* alternatives for sharing code. Reusable Node-RED nodes are created using a mixture of HTML, JavaScript and JSON, uploaded to the [NPM](https://npmjs.org) package sharing platform and then included in the [Node-RED library](https://flows.nodered.org/). 
+
+The process of creating nodes is textual, no supporting tools are provided to do this visually. Yet within Node-RED these nodes can easily be installed and wired together - visually. A set of nodes thus wired together are called flows and it is these flows that can be shared via FlowHub.
+
+Flows can be copied, downloaded or imported directly from FlowHub.org. Import flows directly into Node-RED using the [FlowHub nodes](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub). Flows can be uploaded using those nodes either with an API token or a valid email address.
+
+*[Read more ...](https://blog.openmindmap.org/blog/flowhub)*
 
 ## Goals
 
