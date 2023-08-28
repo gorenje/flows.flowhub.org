@@ -362,6 +362,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/fafd7c807c192d4a/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Mindmap] Wires, Pipes and Nodes</title>
+    <link href="https://flowhub.org/f/e642c9a2598507ed" rel="alternate" type="text/html" title="[Mindmap] Wires, Pipes and Nodes"/>
+    <published>2023-08-28 18:27:00Z</published>
+    <updated>2023-08-28 18:27:00Z</updated>
+    <id>https://flowhub.org/f/e642c9a2598507ed</id>
+    <content type="html" xml:base="https://flowhub.org/f/e642c9a2598507ed">
+    [Mindmap] Wires, Pipes and Nodes
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e642c9a2598507ed/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e642c9a2598507ed/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[OSM] Obtain warmest places</title>
     <link href="https://flowhub.org/f/4f3f93dc29d0f1f1" rel="alternate" type="text/html" title="[OSM] Obtain warmest places"/>
     <published>2023-08-03 11:14:41Z</published>
