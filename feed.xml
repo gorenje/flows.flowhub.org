@@ -314,6 +314,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/139a816449acd89f/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Introspection] TriggerImport: Convert RSS to Flow tab</title>
+    <link href="https://flowhub.org/f/e02ba6e534f7a0f4" rel="alternate" type="text/html" title="[Introspection] TriggerImport: Convert RSS to Flow tab"/>
+    <published>2023-08-29 15:17:31Z</published>
+    <updated>2023-08-29 15:17:31Z</updated>
+    <id>https://flowhub.org/f/e02ba6e534f7a0f4</id>
+    <content type="html" xml:base="https://flowhub.org/f/e02ba6e534f7a0f4">
+    [Introspection] TriggerImport: Convert RSS to Flow tab
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e02ba6e534f7a0f4/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e02ba6e534f7a0f4/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Introspection] obtain all nodes in a flow tab</title>
     <link href="https://flowhub.org/f/d5b88fb479895490" rel="alternate" type="text/html" title="[Introspection] obtain all nodes in a flow tab"/>
     <published>2023-08-02 14:57:30Z</published>
