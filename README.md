@@ -33,7 +33,7 @@ All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje
 
 ## Flows
 
-Currently there are 40 flows explaining some aspect of Node-RED, a [complete collection](https://flows.flowhub.org/feed.xml) of flows is available.
+Currently there are 41 flows explaining some aspect of Node-RED, a [complete collection](https://flows.flowhub.org/feed.xml) of flows is available.
 
 ## Examples
 
