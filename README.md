@@ -31,39 +31,11 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje/flows.flowhub.org) which is a public repository.
 
 
-## Flows
+## Overview of flows
 
-Currently there are 43 flows explaining some aspect of Node-RED, a [complete collection](https://flows.flowhub.org/feed.xml) of flows is available.
+<a href="https://flowhub.org/f/611c047e656989ae"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/611c047e656989ae/preview.png" width="400"/></a>
 
-## Examples
-
-0)
-
-<a href="https://flowhub.org/f/7bac2d969ad2969f"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7bac2d969ad2969f/preview.png" width="400"/></a>
-
-[Hello World in Node-RED](https://flowhub.org/f/7bac2d969ad2969f)
-
-
-1)
-
-<a href="https://flowhub.org/f/431fa52279b0d11b"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/431fa52279b0d11b/preview.png" width="400"/></a>
-
-[Node-RED Learnings: what is empty and what is not empty?](https://flowhub.org/f/431fa52279b0d11b)
-
-
-2)
-
-<a href="https://flowhub.org/f/be2109bba90b6c5a"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/be2109bba90b6c5a/preview.png" width="400"/></a>
-
-[Using I2C bus to do something useful](https://flowhub.org/f/be2109bba90b6c5a)
-
-
-3)
-
-<a href="https://flowhub.org/f/0e07ddb58be5f031"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/0e07ddb58be5f031/preview.png" width="400"/></a>
-
-[Visualising Refactoring - achieving visual clarity](https://flowhub.org/f/0e07ddb58be5f031)
-
+[Overflow](https://flowhub.org/f/611c047e656989ae)
 
 ---
 Copyleft (Ɔ) FlowHub.org + [OpenMindMap.org](https://blog.openmindmap.org) | [Feedback](mailto:feedback.frontpage@flowhub.org) | [RSS](https://flows.flowhub.org/feed.xml)
