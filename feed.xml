@@ -458,13 +458,13 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/0e07ddb58be5f031/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
-    <title type="html">[Rss2Flow] Convert RSS to Nodes</title>
-    <link href="https://flowhub.org/f/95e41632f97921ad" rel="alternate" type="text/html" title="[Rss2Flow] Convert RSS to Nodes"/>
-    <published>2023-08-31 19:41:28Z</published>
-    <updated>2023-08-31 19:41:28Z</updated>
+    <title type="html">[Rss2Flow] RSS Reader in Node-RED</title>
+    <link href="https://flowhub.org/f/95e41632f97921ad" rel="alternate" type="text/html" title="[Rss2Flow] RSS Reader in Node-RED"/>
+    <published>2023-08-31 19:44:08Z</published>
+    <updated>2023-08-31 19:44:08Z</updated>
     <id>https://flowhub.org/f/95e41632f97921ad</id>
     <content type="html" xml:base="https://flowhub.org/f/95e41632f97921ad">
-    [Rss2Flow] Convert RSS to Nodes
+    [Rss2Flow] RSS Reader in Node-RED
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/95e41632f97921ad/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/95e41632f97921ad/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
