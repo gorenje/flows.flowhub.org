@@ -14,6 +14,18 @@
 <uri>https://blog.openmindmap.org</uri>
 </author>
     <entry>
+    <title type="html">Flow 2</title>
+    <link href="https://flowhub.org/f/46186ccb85f93a93" rel="alternate" type="text/html" title="Flow 2"/>
+    <published>2023-09-01 14:11:42Z</published>
+    <updated>2023-09-01 14:11:42Z</updated>
+    <id>https://flowhub.org/f/46186ccb85f93a93</id>
+    <content type="html" xml:base="https://flowhub.org/f/46186ccb85f93a93">
+    Flow 2
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/46186ccb85f93a93/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/46186ccb85f93a93/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">Hello World - part 1: Input &amp; Output</title>
     <link href="https://flowhub.org/f/7bac2d969ad2969f" rel="alternate" type="text/html" title="Hello World - part 1: Input &amp; Output"/>
     <published>2023-08-26 07:22:32Z</published>
