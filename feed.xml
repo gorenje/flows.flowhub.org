@@ -134,6 +134,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/611c047e656989ae/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Art] A day at Hacker News</title>
+    <link href="https://flowhub.org/f/1b2cdc85fc889cd0" rel="alternate" type="text/html" title="[Art] A day at Hacker News"/>
+    <published>2023-09-02 09:53:52Z</published>
+    <updated>2023-09-02 09:53:52Z</updated>
+    <id>https://flowhub.org/f/1b2cdc85fc889cd0</id>
+    <content type="html" xml:base="https://flowhub.org/f/1b2cdc85fc889cd0">
+    [Art] A day at Hacker News
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/1b2cdc85fc889cd0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/1b2cdc85fc889cd0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Art] Firefly</title>
     <link href="https://flowhub.org/f/42e964ad34851488" rel="alternate" type="text/html" title="[Art] Firefly"/>
     <published>2023-08-08 15:36:38Z</published>
