@@ -206,6 +206,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/18a539afac758c61/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Experimental] Auto-layout using Elkjs</title>
+    <link href="https://flowhub.org/f/291e3f0b7f652839" rel="alternate" type="text/html" title="[Experimental] Auto-layout using Elkjs"/>
+    <published>2023-09-04 22:16:49Z</published>
+    <updated>2023-09-04 22:16:49Z</updated>
+    <id>https://flowhub.org/f/291e3f0b7f652839</id>
+    <content type="html" xml:base="https://flowhub.org/f/291e3f0b7f652839">
+    [Experimental] Auto-layout using Elkjs
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/291e3f0b7f652839/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/291e3f0b7f652839/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[GitHub] base functionality</title>
     <link href="https://flowhub.org/f/390ee0021ded4910" rel="alternate" type="text/html" title="[GitHub] base functionality"/>
     <published>2023-08-17 17:46:29Z</published>
