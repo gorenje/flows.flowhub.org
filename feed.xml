@@ -458,6 +458,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e642c9a2598507ed/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[News] 070923</title>
+    <link href="https://flowhub.org/f/e055bd83936a828b" rel="alternate" type="text/html" title="[News] 070923"/>
+    <published>2023-09-08 06:14:11Z</published>
+    <updated>2023-09-08 06:14:11Z</updated>
+    <id>https://flowhub.org/f/e055bd83936a828b</id>
+    <content type="html" xml:base="https://flowhub.org/f/e055bd83936a828b">
+    [News] 070923
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e055bd83936a828b/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e055bd83936a828b/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[News] HN 060923 - Clickbyte</title>
     <link href="https://flowhub.org/f/6b1866eb8223a125" rel="alternate" type="text/html" title="[News] HN 060923 - Clickbyte"/>
     <published>2023-09-06 15:07:14Z</published>
