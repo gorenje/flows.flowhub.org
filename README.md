@@ -24,18 +24,19 @@ Years of textual-based programming has created a body of concepts, wisdoms and b
 
 All flows found here are licensed under the [don't do evil license](https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/LICENSE).
 
-**Usage of FlowHub.org implies an adherence to that license.**.
+**Usage of FlowHub.org implies an adherence to that license.**
 
 ## Repository
 
-All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje/flows.flowhub.org) which is a public repository.
+All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje/flows.flowhub.org), a public repository.
 
 
-## Overview of flows
+## Flows
 
 <a href="https://flowhub.org/f/611c047e656989ae"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/611c047e656989ae/preview.png" width="400"/></a>
 
-[Overflow](https://flowhub.org/f/611c047e656989ae)
+[Overflow: overview of available flows](https://flowhub.org/f/611c047e656989ae) and a [complete list of flows](https://flows.flowhub.org/feed.xml).
+
 
 ---
 Copyleft (Ɔ) FlowHub.org + [OpenMindMap.org](https://blog.openmindmap.org) | [Feedback](mailto:feedback.frontpage@flowhub.org) | [RSS](https://flows.flowhub.org/feed.xml)
