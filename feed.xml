@@ -350,6 +350,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/81d46dabe68094e4/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Introspection] Capture deploy event</title>
+    <link href="https://flowhub.org/f/54b1b4c46e18fb23" rel="alternate" type="text/html" title="[Introspection] Capture deploy event"/>
+    <published>2023-09-13 08:23:07Z</published>
+    <updated>2023-09-13 08:23:07Z</updated>
+    <id>https://flowhub.org/f/54b1b4c46e18fb23</id>
+    <content type="html" xml:base="https://flowhub.org/f/54b1b4c46e18fb23">
+    [Introspection] Capture deploy event
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/54b1b4c46e18fb23/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/54b1b4c46e18fb23/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Introspection] ClientCode</title>
     <link href="https://flowhub.org/f/e02ba6e534f7a0f4" rel="alternate" type="text/html" title="[Introspection] ClientCode"/>
     <published>2023-09-10 10:12:03Z</published>
