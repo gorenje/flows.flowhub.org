@@ -566,6 +566,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/686a84e2a22b5553/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Node-RED2UML] Convert Node-RED flow to Mermaid</title>
+    <link href="https://flowhub.org/f/6e54d62e53ab5b6d" rel="alternate" type="text/html" title="[Node-RED2UML] Convert Node-RED flow to Mermaid"/>
+    <published>2023-09-18 09:04:01Z</published>
+    <updated>2023-09-18 09:04:01Z</updated>
+    <id>https://flowhub.org/f/6e54d62e53ab5b6d</id>
+    <content type="html" xml:base="https://flowhub.org/f/6e54d62e53ab5b6d">
+    [Node-RED2UML] Convert Node-RED flow to Mermaid
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/6e54d62e53ab5b6d/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/6e54d62e53ab5b6d/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[OSM] Obtain warmest places</title>
     <link href="https://flowhub.org/f/4f3f93dc29d0f1f1" rel="alternate" type="text/html" title="[OSM] Obtain warmest places"/>
     <published>2023-09-10 08:14:12Z</published>
