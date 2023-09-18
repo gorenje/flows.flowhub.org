@@ -59,7 +59,7 @@ All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje
 </ul>
 <p><strong>Advancing Node-RED</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/0b1bfbaf6e540be66" target="_blank" rel="noopener">GetFlows</a></li>
+<li><a href="https://flowhub.org/f/0b1bfbf6e540be66" target="_blank" rel="noopener">GetFlows</a></li>
 <li><a href="https://flowhub.org/f/291e3f0b7f652839" target="_blank" rel="noopener">Auto-layout</a></li>
 <li><a href="https://flowhub.org/f/07b2d0f3b0445ab5" target="_blank" rel="noopener">Screenshot</a></li>
 <li><a href="https://flowhub.org/f/139a816449acd89f" target="_blank" rel="noopener">Sink &amp; Seeker</a></li>
