@@ -33,7 +33,47 @@ All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje
 
 ## Flows
 
-<a href="https://flowhub.org/f/611c047e656989ae"><img src="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/611c047e656989ae/preview.png" width="400"/></a>
+<p><strong>Grasping Node-RED</strong></p>
+<ul>
+<li><a href="https://flowhub.org/f/7bac2d969ad2969f" target="_blank" rel="noopener">Hello World - part 1: Input &amp; Output</a></li>
+<li><a href="https://flowhub.org/f/2817a602bd1ba715" target="_blank" rel="noopener">Hello World - part 2: Functionality</a></li>
+<li><a href="https://flowhub.org/f/722b6181086e9abe" target="_blank" rel="noopener">Hello World - part 3: Data Reuse</a></li>
+<li><a href="https://flowhub.org/f/67a6db53dc49ae4c" target="_blank" rel="noopener">Hello World - part 4: Function Reuse</a></li>
+<li><a href="https://flowhub.org/f/7f8714fa6e835a2a" target="_blank" rel="noopener">Node-RED Introduction</a></li>
+</ul>
+<p><strong>Learning Node-RED</strong></p>
+<ul>
+<li><a href="https://flowhub.org/f/1cf772ae2066495e" target="_blank" rel="noopener">Split &amp; Join - don’t drop messages</a></li>
+<li><a href="https://flowhub.org/f/ea246f68766c8630" target="_blank" rel="noopener">Switch - Check all rules v. Stop after first match</a></li>
+<li><a href="https://flowhub.org/f/431fa52279b0d11b" target="_blank" rel="noopener">What is empty and what is not empty?</a></li>
+<li><a href="https://flowhub.org/f/ee720fe66c056d22" target="_blank" rel="noopener">Traversing an array, one by one</a></li>
+<li><a href="https://flowhub.org/f/36f1ec196998b047" target="_blank" rel="noopener">Clone and Fork Node</a></li>
+</ul>
+<p><strong>Using Node-RED</strong></p>
+<ul>
+<li><a href="https://flowhub.org/f/31ea3193ec1a2117" target="_blank" rel="noopener">Commit files to GitHub</a></li>
+<li><a href="https://flowhub.org/f/be2109bba90b6c5a" target="_blank" rel="noopener">I<sup>2</sup>C Bus LED Ticker</a></li>
+<li><a href="https://flowhub.org/f/49221ed0e76e27c3" target="_blank" rel="noopener">Swagger API</a></li>
+<li><a href="https://flowhub.org/f/c9abaaed2623d0fb" target="_blank" rel="noopener">Automatic flows.json backup</a></li>
+<li><a href="https://flowhub.org/f/90196166b57a77e5" target="_blank" rel="noopener">JMAP: Email over Json</a></li>
+</ul>
+<p><strong>Advancing Node-RED</strong></p>
+<ul>
+<li><a href="https://flowhub.org/f/0b1bfbaf6e540be66" target="_blank" rel="noopener">GetFlows</a></li>
+<li><a href="https://flowhub.org/f/291e3f0b7f652839" target="_blank" rel="noopener">Auto-layout</a></li>
+<li><a href="https://flowhub.org/f/07b2d0f3b0445ab5" target="_blank" rel="noopener">Screenshot</a></li>
+<li><a href="https://flowhub.org/f/139a816449acd89f" target="_blank" rel="noopener">Sink &amp; Seeker</a></li>
+<li><a href="https://flowhub.org/f/e02ba6e534f7a0f4" target="_blank" rel="noopener">ClientCode</a></li>
+</ul>
+<p><strong>Applying Node-RED</strong></p>
+<ul>
+<li><a href="https://flowhub.org/f/6e54d62e53ab5b6d" target="_blank" rel="noopener">Convert Node-RED flow to Mermaid UML</a></li>
+<li><a href="https://flowhub.org/f/118d664c87ce7320" target="_blank" rel="noopener">UML and Node-RED: Decision &amp; Merge</a></li>
+<li><a href="https://flowhub.org/f/4059b930d1c0f643" target="_blank" rel="noopener">UML and Node-RED: Fork &amp; Join</a></li>
+<li><a href="https://flowhub.org/f/95e41632f97921ad" target="_blank" rel="noopener">RSS Reader in Node-RED</a></li>
+<li><a href="https://flowhub.org/f/e642c9a2598507ed" target="_blank" rel="noopener">Mindmaps in Node-RED</a></li>
+</ul>
+
 
 [Overflow: overview of available flows](https://flowhub.org/f/611c047e656989ae) and a [complete list of flows](https://flows.flowhub.org/feed.xml).
 
