@@ -146,6 +146,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/431fa52279b0d11b/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">Node-RED Learnings: TypeError: Illegal invocation</title>
+    <link href="https://flowhub.org/f/b8a44ab3f9a85b8b" rel="alternate" type="text/html" title="Node-RED Learnings: TypeError: Illegal invocation"/>
+    <published>2023-09-22 12:09:35Z</published>
+    <updated>2023-09-22 12:09:35Z</updated>
+    <id>https://flowhub.org/f/b8a44ab3f9a85b8b</id>
+    <content type="html" xml:base="https://flowhub.org/f/b8a44ab3f9a85b8b">
+    Node-RED Learnings: TypeError: Illegal invocation
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b8a44ab3f9a85b8b/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b8a44ab3f9a85b8b/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">Overflow</title>
     <link href="https://flowhub.org/f/611c047e656989ae" rel="alternate" type="text/html" title="Overflow"/>
     <published>2023-09-18 13:44:31Z</published>
