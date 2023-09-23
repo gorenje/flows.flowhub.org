@@ -746,6 +746,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/4059b930d1c0f643/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Util] Generate self-encapsulated iframe for embedding flows</title>
+    <link href="https://flowhub.org/f/7236f4a261cd1071" rel="alternate" type="text/html" title="[Util] Generate self-encapsulated iframe for embedding flows"/>
+    <published>2023-09-23 10:43:25Z</published>
+    <updated>2023-09-23 10:43:25Z</updated>
+    <id>https://flowhub.org/f/7236f4a261cd1071</id>
+    <content type="html" xml:base="https://flowhub.org/f/7236f4a261cd1071">
+    [Util] Generate self-encapsulated iframe for embedding flows
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7236f4a261cd1071/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7236f4a261cd1071/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Utilities] Update Overflow with new nodes.</title>
     <link href="https://flowhub.org/f/99766e7b3b3f4cdf" rel="alternate" type="text/html" title="[Utilities] Update Overflow with new nodes."/>
     <published>2023-09-14 08:41:16Z</published>
