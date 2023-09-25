@@ -26,10 +26,6 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 
 **Usage of FlowHub.org implies an adherence to that license.**
 
-## Repository
-
-All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje/flows.flowhub.org), a public repository.
-
 
 ## Flows
 
@@ -79,4 +75,4 @@ All flows are hosted at GitHub in [flows.flowhub.org](https://github.com/gorenje
 
 
 ---
-Copyleft (Ɔ) FlowHub.org + [OpenMindMap.org](https://blog.openmindmap.org) | [Feedback](mailto:feedback.frontpage@flowhub.org) | [RSS](https://flows.flowhub.org/feed.xml)
+Copyright (C) FlowHub.org + [OpenMindMap.org](https://blog.openmindmap.org) | [Feedback](mailto:feedback.frontpage@flowhub.org) | [RSS](https://flows.flowhub.org/feed.xml)
