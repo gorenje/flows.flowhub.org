@@ -412,8 +412,8 @@
     <entry>
     <title type="html">[Introspection] Develop Node-RED nodes in Node-RED</title>
     <link href="https://flowhub.org/f/d0506e991d512ace" rel="alternate" type="text/html" title="[Introspection] Develop Node-RED nodes in Node-RED"/>
-    <published>2023-09-26 15:34:39Z</published>
-    <updated>2023-09-26 15:34:39Z</updated>
+    <published>2023-09-26 18:17:52Z</published>
+    <updated>2023-09-26 18:17:52Z</updated>
     <id>https://flowhub.org/f/d0506e991d512ace</id>
     <content type="html" xml:base="https://flowhub.org/f/d0506e991d512ace">
     [Introspection] Develop Node-RED nodes in Node-RED
@@ -612,6 +612,18 @@
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/eef4037a6d25a1e0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/eef4037a6d25a1e0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
+    <title type="html">[NodeDev] Example import of existing package</title>
+    <link href="https://flowhub.org/f/7bece6814c033925" rel="alternate" type="text/html" title="[NodeDev] Example import of existing package"/>
+    <published>2023-09-26 17:58:05Z</published>
+    <updated>2023-09-26 17:58:05Z</updated>
+    <id>https://flowhub.org/f/7bece6814c033925</id>
+    <content type="html" xml:base="https://flowhub.org/f/7bece6814c033925">
+    [NodeDev] Example import of existing package
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7bece6814c033925/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7bece6814c033925/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
     <title type="html">[NodeDev] Node-RED nodes for the development of Node-RED nodes in Node-RED</title>
