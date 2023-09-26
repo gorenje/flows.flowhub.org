@@ -626,6 +626,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7bece6814c033925/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] FlowHub</title>
+    <link href="https://flowhub.org/f/4a831589774ecb04" rel="alternate" type="text/html" title="[NodeDev] FlowHub"/>
+    <published>2023-09-26 19:13:03Z</published>
+    <updated>2023-09-26 19:13:03Z</updated>
+    <id>https://flowhub.org/f/4a831589774ecb04</id>
+    <content type="html" xml:base="https://flowhub.org/f/4a831589774ecb04">
+    [NodeDev] FlowHub
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/4a831589774ecb04/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/4a831589774ecb04/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] Introspection package</title>
     <link href="https://flowhub.org/f/d73d76db3df96ba2" rel="alternate" type="text/html" title="[NodeDev] Introspection package"/>
     <published>2023-09-26 18:37:57Z</published>
