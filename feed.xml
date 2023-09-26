@@ -602,13 +602,13 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/6e54d62e53ab5b6d/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
-    <title type="html">[NodeDev] NodeDev nodes</title>
-    <link href="https://flowhub.org/f/b92be5062203ff69" rel="alternate" type="text/html" title="[NodeDev] NodeDev nodes"/>
-    <published>2023-09-26 08:14:47Z</published>
-    <updated>2023-09-26 08:14:47Z</updated>
+    <title type="html">[NodeDev] Node-RED nodes for the development of Node-RED nodes in Node-RED</title>
+    <link href="https://flowhub.org/f/b92be5062203ff69" rel="alternate" type="text/html" title="[NodeDev] Node-RED nodes for the development of Node-RED nodes in Node-RED"/>
+    <published>2023-09-26 08:39:40Z</published>
+    <updated>2023-09-26 08:39:40Z</updated>
     <id>https://flowhub.org/f/b92be5062203ff69</id>
     <content type="html" xml:base="https://flowhub.org/f/b92be5062203ff69">
-    [NodeDev] NodeDev nodes
+    [NodeDev] Node-RED nodes for the development of Node-RED nodes in Node-RED
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b92be5062203ff69/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b92be5062203ff69/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
