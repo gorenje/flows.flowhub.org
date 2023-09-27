@@ -662,6 +662,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/f7e009091ef2d6b0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] Node development in Node-RED</title>
+    <link href="https://flowhub.org/f/a8c4b9b40ad11bb5" rel="alternate" type="text/html" title="[NodeDev] Node development in Node-RED"/>
+    <published>2023-09-27 08:46:15Z</published>
+    <updated>2023-09-27 08:46:15Z</updated>
+    <id>https://flowhub.org/f/a8c4b9b40ad11bb5</id>
+    <content type="html" xml:base="https://flowhub.org/f/a8c4b9b40ad11bb5">
+    [NodeDev] Node development in Node-RED
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/a8c4b9b40ad11bb5/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/a8c4b9b40ad11bb5/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] Node-RED nodes for the development of Node-RED nodes in Node-RED</title>
     <link href="https://flowhub.org/f/b92be5062203ff69" rel="alternate" type="text/html" title="[NodeDev] Node-RED nodes for the development of Node-RED nodes in Node-RED"/>
     <published>2023-09-27 08:19:58Z</published>
