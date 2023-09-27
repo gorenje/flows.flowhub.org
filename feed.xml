@@ -650,6 +650,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/d73d76db3df96ba2/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] JSON Schema Validation + Documentation</title>
+    <link href="https://flowhub.org/f/a7a81bcd7159a826" rel="alternate" type="text/html" title="[NodeDev] JSON Schema Validation + Documentation"/>
+    <published>2023-09-27 15:45:10Z</published>
+    <updated>2023-09-27 15:45:10Z</updated>
+    <id>https://flowhub.org/f/a7a81bcd7159a826</id>
+    <content type="html" xml:base="https://flowhub.org/f/a7a81bcd7159a826">
+    [NodeDev] JSON Schema Validation + Documentation
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/a7a81bcd7159a826/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/a7a81bcd7159a826/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] Neural-Network Builder</title>
     <link href="https://flowhub.org/f/f7e009091ef2d6b0" rel="alternate" type="text/html" title="[NodeDev] Neural-Network Builder"/>
     <published>2023-09-27 08:18:45Z</published>
@@ -684,18 +696,6 @@
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b92be5062203ff69/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b92be5062203ff69/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
-    </entry>
-    <entry>
-    <title type="html">[NodeDev] Validation + Documentation</title>
-    <link href="https://flowhub.org/f/a7a81bcd7159a826" rel="alternate" type="text/html" title="[NodeDev] Validation + Documentation"/>
-    <published>2023-09-27 15:44:52Z</published>
-    <updated>2023-09-27 15:44:52Z</updated>
-    <id>https://flowhub.org/f/a7a81bcd7159a826</id>
-    <content type="html" xml:base="https://flowhub.org/f/a7a81bcd7159a826">
-    [NodeDev] Validation + Documentation
-    </content>
-    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/a7a81bcd7159a826/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
-    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/a7a81bcd7159a826/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
     <title type="html">[OSM] Obtain warmest places</title>
