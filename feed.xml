@@ -614,6 +614,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/eef4037a6d25a1e0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] Example of Json Schema Holistic Validator</title>
+    <link href="https://flowhub.org/f/f21aed28a04a7fd0" rel="alternate" type="text/html" title="[NodeDev] Example of Json Schema Holistic Validator"/>
+    <published>2023-09-28 12:20:12Z</published>
+    <updated>2023-09-28 12:20:12Z</updated>
+    <id>https://flowhub.org/f/f21aed28a04a7fd0</id>
+    <content type="html" xml:base="https://flowhub.org/f/f21aed28a04a7fd0">
+    [NodeDev] Example of Json Schema Holistic Validator
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/f21aed28a04a7fd0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/f21aed28a04a7fd0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] Example of basic setup for node development</title>
     <link href="https://flowhub.org/f/7bece6814c033925" rel="alternate" type="text/html" title="[NodeDev] Example of basic setup for node development"/>
     <published>2023-09-26 18:59:55Z</published>
