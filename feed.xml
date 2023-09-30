@@ -638,6 +638,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7bece6814c033925/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] Examples for Flow2UML node</title>
+    <link href="https://flowhub.org/f/666972381aaa960e" rel="alternate" type="text/html" title="[NodeDev] Examples for Flow2UML node"/>
+    <published>2023-09-30 10:28:21Z</published>
+    <updated>2023-09-30 10:28:21Z</updated>
+    <id>https://flowhub.org/f/666972381aaa960e</id>
+    <content type="html" xml:base="https://flowhub.org/f/666972381aaa960e">
+    [NodeDev] Examples for Flow2UML node
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/666972381aaa960e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/666972381aaa960e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] Flow2Mermaid</title>
     <link href="https://flowhub.org/f/8e598f0f47194617" rel="alternate" type="text/html" title="[NodeDev] Flow2Mermaid"/>
     <published>2023-09-30 09:48:27Z</published>
