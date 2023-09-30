@@ -602,6 +602,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/6e54d62e53ab5b6d/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] Alignment Node</title>
+    <link href="https://flowhub.org/f/3de89bdf647951dc" rel="alternate" type="text/html" title="[NodeDev] Alignment Node"/>
+    <published>2023-09-30 22:43:22Z</published>
+    <updated>2023-09-30 22:43:22Z</updated>
+    <id>https://flowhub.org/f/3de89bdf647951dc</id>
+    <content type="html" xml:base="https://flowhub.org/f/3de89bdf647951dc">
+    [NodeDev] Alignment Node
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/3de89bdf647951dc/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/3de89bdf647951dc/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] Example import of existing package</title>
     <link href="https://flowhub.org/f/eef4037a6d25a1e0" rel="alternate" type="text/html" title="[NodeDev] Example import of existing package"/>
     <published>2023-09-26 19:01:17Z</published>
