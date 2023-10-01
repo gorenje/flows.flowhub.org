@@ -638,6 +638,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/f21aed28a04a7fd0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] Example of auto alignment node::</title>
+    <link href="https://flowhub.org/f/b22f47c724215b2a" rel="alternate" type="text/html" title="[NodeDev] Example of auto alignment node::"/>
+    <published>2023-10-01 09:38:41Z</published>
+    <updated>2023-10-01 09:38:41Z</updated>
+    <id>https://flowhub.org/f/b22f47c724215b2a</id>
+    <content type="html" xml:base="https://flowhub.org/f/b22f47c724215b2a">
+    [NodeDev] Example of auto alignment node::
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b22f47c724215b2a/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b22f47c724215b2a/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] Example of basic setup for node development</title>
     <link href="https://flowhub.org/f/7bece6814c033925" rel="alternate" type="text/html" title="[NodeDev] Example of basic setup for node development"/>
     <published>2023-09-26 18:59:55Z</published>
