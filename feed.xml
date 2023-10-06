@@ -74,6 +74,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7f8714fa6e835a2a/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">Node-RED Learnings - Boolean logic</title>
+    <link href="https://flowhub.org/f/baaaaa02ec51bdba" rel="alternate" type="text/html" title="Node-RED Learnings - Boolean logic"/>
+    <published>2023-10-06 09:20:22Z</published>
+    <updated>2023-10-06 09:20:22Z</updated>
+    <id>https://flowhub.org/f/baaaaa02ec51bdba</id>
+    <content type="html" xml:base="https://flowhub.org/f/baaaaa02ec51bdba">
+    Node-RED Learnings - Boolean logic
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/baaaaa02ec51bdba/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/baaaaa02ec51bdba/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">Node-RED Learnings - Clone and Fork Node</title>
     <link href="https://flowhub.org/f/36f1ec196998b047" rel="alternate" type="text/html" title="Node-RED Learnings - Clone and Fork Node"/>
     <published>2023-09-17 20:29:34Z</published>
