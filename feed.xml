@@ -950,6 +950,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/99766e7b3b3f4cdf/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Utils] Retrieve README content from GitHub repo</title>
+    <link href="https://flowhub.org/f/baed6b80d48bcdff" rel="alternate" type="text/html" title="[Utils] Retrieve README content from GitHub repo"/>
+    <published>2023-10-06 14:13:26Z</published>
+    <updated>2023-10-06 14:13:26Z</updated>
+    <id>https://flowhub.org/f/baed6b80d48bcdff</id>
+    <content type="html" xml:base="https://flowhub.org/f/baed6b80d48bcdff">
+    [Utils] Retrieve README content from GitHub repo
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/baed6b80d48bcdff/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/baed6b80d48bcdff/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Validation] JSON Schema - Simple msg validation</title>
     <link href="https://flowhub.org/f/36690f145d5af6ca" rel="alternate" type="text/html" title="[Validation] JSON Schema - Simple msg validation"/>
     <published>2023-09-24 06:55:27Z</published>
