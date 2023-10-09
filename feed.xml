@@ -710,6 +710,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/8e598f0f47194617/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] FlowCompare</title>
+    <link href="https://flowhub.org/f/bd2901f55cfc55ef" rel="alternate" type="text/html" title="[NodeDev] FlowCompare"/>
+    <published>2023-10-09 21:21:25Z</published>
+    <updated>2023-10-09 21:21:25Z</updated>
+    <id>https://flowhub.org/f/bd2901f55cfc55ef</id>
+    <content type="html" xml:base="https://flowhub.org/f/bd2901f55cfc55ef">
+    [NodeDev] FlowCompare
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/bd2901f55cfc55ef/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/bd2901f55cfc55ef/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] FlowHub</title>
     <link href="https://flowhub.org/f/4a831589774ecb04" rel="alternate" type="text/html" title="[NodeDev] FlowHub"/>
     <published>2023-10-07 22:29:23Z</published>
@@ -768,18 +780,6 @@
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/a8c4b9b40ad11bb5/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/a8c4b9b40ad11bb5/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
-    </entry>
-    <entry>
-    <title type="html">[NodeDev] NodeCompare</title>
-    <link href="https://flowhub.org/f/bd2901f55cfc55ef" rel="alternate" type="text/html" title="[NodeDev] NodeCompare"/>
-    <published>2023-10-09 17:20:00Z</published>
-    <updated>2023-10-09 17:20:00Z</updated>
-    <id>https://flowhub.org/f/bd2901f55cfc55ef</id>
-    <content type="html" xml:base="https://flowhub.org/f/bd2901f55cfc55ef">
-    [NodeDev] NodeCompare
-    </content>
-    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/bd2901f55cfc55ef/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
-    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/bd2901f55cfc55ef/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
     <title type="html">[NodeDev] NodeDev Node-RED Package</title>
