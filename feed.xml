@@ -712,8 +712,8 @@
     <entry>
     <title type="html">[NodeDev] FlowCompare</title>
     <link href="https://flowhub.org/f/bd2901f55cfc55ef" rel="alternate" type="text/html" title="[NodeDev] FlowCompare"/>
-    <published>2023-10-10 13:58:51Z</published>
-    <updated>2023-10-10 13:58:51Z</updated>
+    <published>2023-10-10 14:38:42Z</published>
+    <updated>2023-10-10 14:38:42Z</updated>
     <id>https://flowhub.org/f/bd2901f55cfc55ef</id>
     <content type="html" xml:base="https://flowhub.org/f/bd2901f55cfc55ef">
     [NodeDev] FlowCompare
@@ -1032,5 +1032,17 @@
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/40ea5f2aea6592ae/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/40ea5f2aea6592ae/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
+    <title type="html">flowviewer</title>
+    <link href="https://flowhub.org/f/3b1289d7ccf9cb0f" rel="alternate" type="text/html" title="flowviewer"/>
+    <published>2023-10-10 18:29:44Z</published>
+    <updated>2023-10-10 18:29:44Z</updated>
+    <id>https://flowhub.org/f/3b1289d7ccf9cb0f</id>
+    <content type="html" xml:base="https://flowhub.org/f/3b1289d7ccf9cb0f">
+    flowviewer
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/3b1289d7ccf9cb0f/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/3b1289d7ccf9cb0f/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
 </feed>
