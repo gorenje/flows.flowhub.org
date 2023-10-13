@@ -662,6 +662,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/f21aed28a04a7fd0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] Example of UglifyJS node</title>
+    <link href="https://flowhub.org/f/ca78ac1011bd3194" rel="alternate" type="text/html" title="[NodeDev] Example of UglifyJS node"/>
+    <published>2023-10-13 13:15:36Z</published>
+    <updated>2023-10-13 13:15:36Z</updated>
+    <id>https://flowhub.org/f/ca78ac1011bd3194</id>
+    <content type="html" xml:base="https://flowhub.org/f/ca78ac1011bd3194">
+    [NodeDev] Example of UglifyJS node
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/ca78ac1011bd3194/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/ca78ac1011bd3194/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] Example of auto alignment node</title>
     <link href="https://flowhub.org/f/b22f47c724215b2a" rel="alternate" type="text/html" title="[NodeDev] Example of auto alignment node"/>
     <published>2023-10-01 09:39:58Z</published>
