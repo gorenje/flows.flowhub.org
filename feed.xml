@@ -254,6 +254,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/291e3f0b7f652839/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Experimental] FlowHub compute engine</title>
+    <link href="https://flowhub.org/f/39e293e1e0d43ce8" rel="alternate" type="text/html" title="[Experimental] FlowHub compute engine"/>
+    <published>2023-10-17 13:21:58Z</published>
+    <updated>2023-10-17 13:21:58Z</updated>
+    <id>https://flowhub.org/f/39e293e1e0d43ce8</id>
+    <content type="html" xml:base="https://flowhub.org/f/39e293e1e0d43ce8">
+    [Experimental] FlowHub compute engine
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/39e293e1e0d43ce8/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/39e293e1e0d43ce8/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Experimental] HN Rss + Frontend code</title>
     <link href="https://flowhub.org/f/119a019d22344192" rel="alternate" type="text/html" title="[Experimental] HN Rss + Frontend code"/>
     <published>2023-09-14 06:34:52Z</published>
