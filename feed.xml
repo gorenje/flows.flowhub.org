@@ -758,6 +758,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/666972381aaa960e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] Flow compare trigger update on tab change</title>
+    <link href="https://flowhub.org/f/7750f7bbea836e0e" rel="alternate" type="text/html" title="[NodeDev] Flow compare trigger update on tab change"/>
+    <published>2023-10-23 17:50:16Z</published>
+    <updated>2023-10-23 17:50:16Z</updated>
+    <id>https://flowhub.org/f/7750f7bbea836e0e</id>
+    <content type="html" xml:base="https://flowhub.org/f/7750f7bbea836e0e">
+    [NodeDev] Flow compare trigger update on tab change
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7750f7bbea836e0e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7750f7bbea836e0e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] Flow2UML</title>
     <link href="https://flowhub.org/f/8e598f0f47194617" rel="alternate" type="text/html" title="[NodeDev] Flow2UML"/>
     <published>2023-10-23 08:17:51Z</published>
