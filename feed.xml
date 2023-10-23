@@ -566,6 +566,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/fafd7c807c192d4a/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[MQTT] Inhouse broker using aedes</title>
+    <link href="https://flowhub.org/f/553ca20c0b35e191" rel="alternate" type="text/html" title="[MQTT] Inhouse broker using aedes"/>
+    <published>2023-10-23 15:22:08Z</published>
+    <updated>2023-10-23 15:22:08Z</updated>
+    <id>https://flowhub.org/f/553ca20c0b35e191</id>
+    <content type="html" xml:base="https://flowhub.org/f/553ca20c0b35e191">
+    [MQTT] Inhouse broker using aedes
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/553ca20c0b35e191/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/553ca20c0b35e191/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Mindmap] Wires, Pipes and Nodes</title>
     <link href="https://flowhub.org/f/e642c9a2598507ed" rel="alternate" type="text/html" title="[Mindmap] Wires, Pipes and Nodes"/>
     <published>2023-09-04 08:17:56Z</published>
