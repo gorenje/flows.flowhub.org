@@ -230,6 +230,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/600b912208e31e75/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Decision tree] Software acquisition</title>
+    <link href="https://flowhub.org/f/7c29441a5cb63c9e" rel="alternate" type="text/html" title="[Decision tree] Software acquisition"/>
+    <published>2023-10-24 09:54:20Z</published>
+    <updated>2023-10-24 09:54:20Z</updated>
+    <id>https://flowhub.org/f/7c29441a5cb63c9e</id>
+    <content type="html" xml:base="https://flowhub.org/f/7c29441a5cb63c9e">
+    [Decision tree] Software acquisition
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7c29441a5cb63c9e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7c29441a5cb63c9e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Exp] Status Ticker</title>
     <link href="https://flowhub.org/f/18a539afac758c61" rel="alternate" type="text/html" title="[Exp] Status Ticker"/>
     <published>2023-08-03 16:43:03Z</published>
