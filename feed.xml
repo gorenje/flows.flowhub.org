@@ -1130,6 +1130,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/40ea5f2aea6592ae/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[experimental] Node-RED Community catalogue</title>
+    <link href="https://flowhub.org/f/741c6acbed17d504" rel="alternate" type="text/html" title="[experimental] Node-RED Community catalogue"/>
+    <published>2023-10-25 19:30:54Z</published>
+    <updated>2023-10-25 19:30:54Z</updated>
+    <id>https://flowhub.org/f/741c6acbed17d504</id>
+    <content type="html" xml:base="https://flowhub.org/f/741c6acbed17d504">
+    [experimental] Node-RED Community catalogue
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/741c6acbed17d504/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/741c6acbed17d504/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[experimental] opensky network with area update</title>
     <link href="https://flowhub.org/f/b3b45b714a582c41" rel="alternate" type="text/html" title="[experimental] opensky network with area update"/>
     <published>2023-10-25 18:05:52Z</published>
