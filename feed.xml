@@ -290,18 +290,6 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/119a019d22344192/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
-    <title type="html">[FlowDev] Sidebar Auto Alignment</title>
-    <link href="https://flowhub.org/f/b3d8d3a926ff80e7" rel="alternate" type="text/html" title="[FlowDev] Sidebar Auto Alignment"/>
-    <published>2023-10-23 07:57:28Z</published>
-    <updated>2023-10-23 07:57:28Z</updated>
-    <id>https://flowhub.org/f/b3d8d3a926ff80e7</id>
-    <content type="html" xml:base="https://flowhub.org/f/b3d8d3a926ff80e7">
-    [FlowDev] Sidebar Auto Alignment
-    </content>
-    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b3d8d3a926ff80e7/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
-    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b3d8d3a926ff80e7/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
-    </entry>
-    <entry>
     <title type="html">[GitHub] Backup visualisation</title>
     <link href="https://flowhub.org/f/3586922cb708a29c" rel="alternate" type="text/html" title="[GitHub] Backup visualisation"/>
     <published>2023-09-16 18:52:25Z</published>
@@ -876,6 +864,18 @@
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b92be5062203ff69/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b92be5062203ff69/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
+    <title type="html">[NodeDev] Sidebar Auto Alignment</title>
+    <link href="https://flowhub.org/f/b3d8d3a926ff80e7" rel="alternate" type="text/html" title="[NodeDev] Sidebar Auto Alignment"/>
+    <published>2023-10-26 07:27:35Z</published>
+    <updated>2023-10-26 07:27:35Z</updated>
+    <id>https://flowhub.org/f/b3d8d3a926ff80e7</id>
+    <content type="html" xml:base="https://flowhub.org/f/b3d8d3a926ff80e7">
+    [NodeDev] Sidebar Auto Alignment
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b3d8d3a926ff80e7/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b3d8d3a926ff80e7/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
     <title type="html">[NodeDev] UglifyJS</title>
