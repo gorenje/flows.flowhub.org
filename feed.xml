@@ -1130,6 +1130,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/40ea5f2aea6592ae/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[babylonjs] 3d ticker wall</title>
+    <link href="https://flowhub.org/f/bc7bdcb9d2354754" rel="alternate" type="text/html" title="[babylonjs] 3d ticker wall"/>
+    <published>2023-10-27 16:45:13Z</published>
+    <updated>2023-10-27 16:45:13Z</updated>
+    <id>https://flowhub.org/f/bc7bdcb9d2354754</id>
+    <content type="html" xml:base="https://flowhub.org/f/bc7bdcb9d2354754">
+    [babylonjs] 3d ticker wall
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/bc7bdcb9d2354754/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/bc7bdcb9d2354754/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[experimental] Node-RED Community catalogue</title>
     <link href="https://flowhub.org/f/741c6acbed17d504" rel="alternate" type="text/html" title="[experimental] Node-RED Community catalogue"/>
     <published>2023-10-27 07:28:24Z</published>
