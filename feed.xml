@@ -1130,6 +1130,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/40ea5f2aea6592ae/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[analytics] Node-RED Community catalogue</title>
+    <link href="https://flowhub.org/f/741c6acbed17d504" rel="alternate" type="text/html" title="[analytics] Node-RED Community catalogue"/>
+    <published>2023-10-30 17:48:36Z</published>
+    <updated>2023-10-30 17:48:36Z</updated>
+    <id>https://flowhub.org/f/741c6acbed17d504</id>
+    <content type="html" xml:base="https://flowhub.org/f/741c6acbed17d504">
+    [analytics] Node-RED Community catalogue
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/741c6acbed17d504/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/741c6acbed17d504/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[babylonjs] 3d ticker wall</title>
     <link href="https://flowhub.org/f/bc7bdcb9d2354754" rel="alternate" type="text/html" title="[babylonjs] 3d ticker wall"/>
     <published>2023-10-27 17:04:55Z</published>
@@ -1140,18 +1152,6 @@
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/bc7bdcb9d2354754/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/bc7bdcb9d2354754/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
-    </entry>
-    <entry>
-    <title type="html">[experimental] Node-RED Community catalogue</title>
-    <link href="https://flowhub.org/f/741c6acbed17d504" rel="alternate" type="text/html" title="[experimental] Node-RED Community catalogue"/>
-    <published>2023-10-30 17:34:33Z</published>
-    <updated>2023-10-30 17:34:33Z</updated>
-    <id>https://flowhub.org/f/741c6acbed17d504</id>
-    <content type="html" xml:base="https://flowhub.org/f/741c6acbed17d504">
-    [experimental] Node-RED Community catalogue
-    </content>
-    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/741c6acbed17d504/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
-    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/741c6acbed17d504/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
     <title type="html">[experimental] opensky network with area update</title>
