@@ -1142,6 +1142,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/741c6acbed17d504/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[art] Bar graph clock</title>
+    <link href="https://flowhub.org/f/4c0ffec0d554ef4c" rel="alternate" type="text/html" title="[art] Bar graph clock"/>
+    <published>2023-11-02 13:42:53Z</published>
+    <updated>2023-11-02 13:42:53Z</updated>
+    <id>https://flowhub.org/f/4c0ffec0d554ef4c</id>
+    <content type="html" xml:base="https://flowhub.org/f/4c0ffec0d554ef4c">
+    [art] Bar graph clock
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/4c0ffec0d554ef4c/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/4c0ffec0d554ef4c/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[babylonjs] 3d ticker wall</title>
     <link href="https://flowhub.org/f/bc7bdcb9d2354754" rel="alternate" type="text/html" title="[babylonjs] 3d ticker wall"/>
     <published>2023-10-27 17:04:55Z</published>
