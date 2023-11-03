@@ -1178,6 +1178,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b3b45b714a582c41/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[test] import Node-RED node catalogue as nodes</title>
+    <link href="https://flowhub.org/f/f5d70e531566a735" rel="alternate" type="text/html" title="[test] import Node-RED node catalogue as nodes"/>
+    <published>2023-11-03 13:09:03Z</published>
+    <updated>2023-11-03 13:09:03Z</updated>
+    <id>https://flowhub.org/f/f5d70e531566a735</id>
+    <content type="html" xml:base="https://flowhub.org/f/f5d70e531566a735">
+    [test] import Node-RED node catalogue as nodes
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/f5d70e531566a735/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/f5d70e531566a735/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">flowviewer</title>
     <link href="https://flowhub.org/f/3b1289d7ccf9cb0f" rel="alternate" type="text/html" title="flowviewer"/>
     <published>2023-10-23 15:29:07Z</published>
