@@ -1190,6 +1190,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/595d4bf6c0cf0d63/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[package.json] get my latest package versions</title>
+    <link href="https://flowhub.org/f/78544e8eddf6274b" rel="alternate" type="text/html" title="[package.json] get my latest package versions"/>
+    <published>2023-11-06 20:15:02Z</published>
+    <updated>2023-11-06 20:15:02Z</updated>
+    <id>https://flowhub.org/f/78544e8eddf6274b</id>
+    <content type="html" xml:base="https://flowhub.org/f/78544e8eddf6274b">
+    [package.json] get my latest package versions
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/78544e8eddf6274b/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/78544e8eddf6274b/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[test] import Node-RED node catalogue as nodes</title>
     <link href="https://flowhub.org/f/f5d70e531566a735" rel="alternate" type="text/html" title="[test] import Node-RED node catalogue as nodes"/>
     <published>2023-11-03 13:09:03Z</published>
