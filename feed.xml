@@ -1250,6 +1250,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/3b1289d7ccf9cb0f/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">hello world flow</title>
+    <link href="https://flowhub.org/f/523aa58b4ff2ef31" rel="alternate" type="text/html" title="hello world flow"/>
+    <published>2023-11-07 11:03:49Z</published>
+    <updated>2023-11-07 11:03:49Z</updated>
+    <id>https://flowhub.org/f/523aa58b4ff2ef31</id>
+    <content type="html" xml:base="https://flowhub.org/f/523aa58b4ff2ef31">
+    hello world flow
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/523aa58b4ff2ef31/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/523aa58b4ff2ef31/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">w.h.y.</title>
     <link href="https://flowhub.org/f/6c8ce462533a1da4" rel="alternate" type="text/html" title="w.h.y."/>
     <published>2023-10-23 18:07:16Z</published>
