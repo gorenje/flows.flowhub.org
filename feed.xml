@@ -1178,6 +1178,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b3b45b714a582c41/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[nodedev] inspirational node packages</title>
+    <link href="https://flowhub.org/f/16310ded01410ec0" rel="alternate" type="text/html" title="[nodedev] inspirational node packages"/>
+    <published>2023-11-08 12:23:36Z</published>
+    <updated>2023-11-08 12:23:36Z</updated>
+    <id>https://flowhub.org/f/16310ded01410ec0</id>
+    <content type="html" xml:base="https://flowhub.org/f/16310ded01410ec0">
+    [nodedev] inspirational node packages
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/16310ded01410ec0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/16310ded01410ec0/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[nodedev] install random package and its source code</title>
     <link href="https://flowhub.org/f/01920991a09b7e95" rel="alternate" type="text/html" title="[nodedev] install random package and its source code"/>
     <published>2023-11-07 09:57:20Z</published>
