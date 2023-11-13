@@ -8,11 +8,20 @@ permalink: /
 
 [Node-RED](https://nodered.org) is a visual development platform providing several *textual* alternatives for sharing code. Reusable Node-RED nodes are created using a mixture of HTML, JavaScript and JSON, uploaded to the [NPM](https://npmjs.org) package sharing platform and then included in the [Node-RED library](https://flows.nodered.org/). 
 
-This process of creating nodes is textual, no supporting tools are provided to do this visually. Yet within Node-RED these nodes can easily be installed and wired together - visually. A set of nodes thus wired together are called flows and it is these flows that can be shared via FlowHub.
+This process of creating nodes is textual, no official supporting tooling for doing node creation visually exist to the best of the knowledge of the author. Yet within Node-RED these nodes can easily be installed and wired together - visually. A set of nodes thus wired together are called flows and it is these flows that can be shared via [FlowHub.org](https://FlowHub.org).
 
 Flows can be copied, downloaded or imported directly from FlowHub.org. Import flows directly into Node-RED using the [FlowHub nodes](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub). Flows can be uploaded using those nodes either with an API token or a valid email address.
 
-*[Read more ...](https://blog.openmindmap.org/blog/flowhub)*
+## Some more Details
+
+Two articles are available that better describe my intentions in creating FlowHub.org:
+
+- [FlowHub: Visual Code Sharing](https://blog.openmindmap.org/blog/flowhub)
+- [FlowHub.org: Towards collaborative visual flow based development](https://blog.openmindmap.org/blog/flowhub-collaborative-code-sharing)
+
+In summary, the focus is on clarity of flow changes between revisions, on sharing of knowledge and collaboratively working on Node-RED flows.
+
+[Flow Based Programming](https://jpaulm.github.io/fbp/index.html) has many useful features unfortunately FBP lacks the tooling around that exists around textual programming languages: testing (unit testing), development workflows (GitHub flow) and collaboration (code comparison). These features need to be recreated in a *visual* form for FBP to reach a broad audience.
 
 ## Goals
 
@@ -71,7 +80,7 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 </ul>
 
 
-[Overflow: overview of available flows](https://flowhub.org/f/611c047e656989ae) and a [complete list of flows](https://flows.flowhub.org/feed.xml).
+[Overflow: overview of available flows](https://flowhub.org/f/611c047e656989ae) and a [complete list of flows as RSS feed](https://flows.flowhub.org/feed.xml).
 
 
 ---
