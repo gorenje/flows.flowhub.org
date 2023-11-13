@@ -1166,6 +1166,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/bc7bdcb9d2354754/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[blockly] Comparing representations</title>
+    <link href="https://flowhub.org/f/5c59049d735c3b3d" rel="alternate" type="text/html" title="[blockly] Comparing representations"/>
+    <published>2023-11-13 16:25:23Z</published>
+    <updated>2023-11-13 16:25:23Z</updated>
+    <id>https://flowhub.org/f/5c59049d735c3b3d</id>
+    <content type="html" xml:base="https://flowhub.org/f/5c59049d735c3b3d">
+    [blockly] Comparing representations
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/5c59049d735c3b3d/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/5c59049d735c3b3d/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[experimental] opensky network with area update</title>
     <link href="https://flowhub.org/f/b3b45b714a582c41" rel="alternate" type="text/html" title="[experimental] opensky network with area update"/>
     <published>2023-10-25 18:05:52Z</published>
