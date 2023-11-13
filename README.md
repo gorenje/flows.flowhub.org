@@ -36,6 +36,23 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 **Usage of FlowHub.org implies an adherence to that license.**
 
 
+## Last ten updates
+
+<p><strong>Last ten updates</strong></p>
+<ul>
+<li><a href="https://flowhub.org/f/741c6acbed17d504" target="_blank" rel="noopener">[analytics] Node-RED Community catalogue</a> an hour ago</li>
+<li><a href="https://flowhub.org/f/5c59049d735c3b3d" target="_blank" rel="noopener">[Blockly] Visual Coding: Drawing Parallels</a> an hour ago</li>
+<li><a href="https://flowhub.org/f/16310ded01410ec0" target="_blank" rel="noopener">[nodedev] inspirational node packages</a> an hour ago</li>
+<li><a href="https://flowhub.org/f/7c29441a5cb63c9e" target="_blank" rel="noopener">[Decision tree] Software acquisition</a> 2 days ago</li>
+<li><a href="https://flowhub.org/f/d73d76db3df96ba2" target="_blank" rel="noopener">[NodeDev] Introspection package</a> 2 days ago</li>
+<li><a href="https://flowhub.org/f/bd2901f55cfc55ef" target="_blank" rel="noopener">[NodeDev] FlowCompare</a> 2 days ago</li>
+<li><a href="https://flowhub.org/f/4a831589774ecb04" target="_blank" rel="noopener">[NodeDev] FlowHub</a> 2 days ago</li>
+<li><a href="https://flowhub.org/f/48c947cc435c328f" target="_blank" rel="noopener">[nodedev] my package development</a> 5 days ago</li>
+<li><a href="https://flowhub.org/f/b3d8d3a926ff80e7" target="_blank" rel="noopener">[NodeDev] Sidebar Auto Alignment</a> 5 days ago</li>
+<li><a href="https://flowhub.org/f/523aa58b4ff2ef31" target="_blank" rel="noopener">hello world flow</a> 6 days ago</li>
+</ul>
+
+
 ## Flows
 
 <p><strong>Grasping Node-RED</strong></p>
