@@ -40,7 +40,7 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/16310ded01410ec0" target="_blank" rel="noopener">[nodedev] inspirational node packages</a> a few seconds ago</li>
+<li><a href="https://flowhub.org/f/16310ded01410ec0" target="_blank" rel="noopener">[nodedev] inspirational node packages</a> 10 minutes ago</li>
 <li><a href="https://flowhub.org/f/595d4bf6c0cf0d63" target="_blank" rel="noopener">[obfuscation] visual obfuscation</a> a day ago</li>
 <li><a href="https://flowhub.org/f/741c6acbed17d504" target="_blank" rel="noopener">[analytics] Node-RED Community catalogue</a> a day ago</li>
 <li><a href="https://flowhub.org/f/5c59049d735c3b3d" target="_blank" rel="noopener">[Blockly] Visual Coding: Drawing Parallels</a> a day ago</li>
