@@ -40,10 +40,10 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/741c6acbed17d504" target="_blank" rel="noopener">[analytics] Node-RED Community catalogue</a> a few seconds ago</li>
+<li><a href="https://flowhub.org/f/cd8ee0cc76ab3339" target="_blank" rel="noopener">[NodeDev] Tarball</a> a few seconds ago</li>
+<li><a href="https://flowhub.org/f/741c6acbed17d504" target="_blank" rel="noopener">[analytics] Node-RED Community catalogue</a> a minute ago</li>
 <li><a href="https://flowhub.org/f/b92be5062203ff69" target="_blank" rel="noopener">[NodeDev] NodeDev Node-RED Package</a> 2 hours ago</li>
 <li><a href="https://flowhub.org/f/48c947cc435c328f" target="_blank" rel="noopener">[nodedev] my package development</a> 3 hours ago</li>
-<li><a href="https://flowhub.org/f/cd8ee0cc76ab3339" target="_blank" rel="noopener">[NodeDev] Tarball</a> 3 hours ago</li>
 <li><a href="https://flowhub.org/f/bd55b01d4cf1db22" target="_blank" rel="noopener">[Tarball] examples</a> 3 hours ago</li>
 <li><a href="https://flowhub.org/f/390ee0021ded4910" target="_blank" rel="noopener">[GitHub] base functionality</a> a day ago</li>
 <li><a href="https://flowhub.org/f/d0506e991d512ace" target="_blank" rel="noopener">[Introspection] Develop Node-RED nodes in Node-RED</a> a day ago</li>
