@@ -1022,6 +1022,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/49221ed0e76e27c3/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Tarball] examples</title>
+    <link href="https://flowhub.org/f/bd55b01d4cf1db22" rel="alternate" type="text/html" title="[Tarball] examples"/>
+    <published>2023-11-23 16:49:22Z</published>
+    <updated>2023-11-23 16:49:22Z</updated>
+    <id>https://flowhub.org/f/bd55b01d4cf1db22</id>
+    <content type="html" xml:base="https://flowhub.org/f/bd55b01d4cf1db22">
+    [Tarball] examples
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/bd55b01d4cf1db22/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/bd55b01d4cf1db22/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Test] Testing, one two, one two...</title>
     <link href="https://flowhub.org/f/46186ccb85f93a93" rel="alternate" type="text/html" title="[Test] Testing, one two, one two..."/>
     <published>2023-11-07 10:55:30Z</published>
