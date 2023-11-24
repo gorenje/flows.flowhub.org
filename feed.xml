@@ -1250,6 +1250,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/fa039591fddc0902/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[node-maker] how to create 2 tabs and 2 buttons</title>
+    <link href="https://flowhub.org/f/2c6bf243745407b7" rel="alternate" type="text/html" title="[node-maker] how to create 2 tabs and 2 buttons"/>
+    <published>2023-11-24 17:50:46Z</published>
+    <updated>2023-11-24 17:50:46Z</updated>
+    <id>https://flowhub.org/f/2c6bf243745407b7</id>
+    <content type="html" xml:base="https://flowhub.org/f/2c6bf243745407b7">
+    [node-maker] how to create 2 tabs and 2 buttons
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/2c6bf243745407b7/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/2c6bf243745407b7/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[nodedev] inspirational node packages</title>
     <link href="https://flowhub.org/f/16310ded01410ec0" rel="alternate" type="text/html" title="[nodedev] inspirational node packages"/>
     <published>2023-11-14 19:17:03Z</published>
