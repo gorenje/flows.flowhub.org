@@ -41,7 +41,7 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 <p><strong>Last ten updates</strong></p>
 <ul>
 <li><a href="https://flowhub.org/f/2c6bf243745407b7" target="_blank" rel="noopener">[node-maker] how to create 2 tabs and 2 buttons</a> a few seconds ago</li>
-<li><a href="https://flowhub.org/f/4a831589774ecb04" target="_blank" rel="noopener">[NodeDev] FlowHub</a> 5 minutes ago</li>
+<li><a href="https://flowhub.org/f/4a831589774ecb04" target="_blank" rel="noopener">[NodeDev] FlowHub</a> 6 minutes ago</li>
 <li><a href="https://flowhub.org/f/fa039591fddc0902" target="_blank" rel="noopener">[node-maker] flow to create Node UIs</a> 3 hours ago</li>
 <li><a href="https://flowhub.org/f/b92be5062203ff69" target="_blank" rel="noopener">[NodeDev] NodeDev Node-RED Package</a> 6 hours ago</li>
 <li><a href="https://flowhub.org/f/741c6acbed17d504" target="_blank" rel="noopener">[analytics] Node-RED Community catalogue</a> 10 hours ago</li>
