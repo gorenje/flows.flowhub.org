@@ -1238,6 +1238,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b3b45b714a582c41/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[node-maker] flow to create Node UIs</title>
+    <link href="https://flowhub.org/f/fa039591fddc0902" rel="alternate" type="text/html" title="[node-maker] flow to create Node UIs"/>
+    <published>2023-11-24 13:47:37Z</published>
+    <updated>2023-11-24 13:47:37Z</updated>
+    <id>https://flowhub.org/f/fa039591fddc0902</id>
+    <content type="html" xml:base="https://flowhub.org/f/fa039591fddc0902">
+    [node-maker] flow to create Node UIs
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/fa039591fddc0902/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/fa039591fddc0902/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[nodedev] inspirational node packages</title>
     <link href="https://flowhub.org/f/16310ded01410ec0" rel="alternate" type="text/html" title="[nodedev] inspirational node packages"/>
     <published>2023-11-14 19:17:03Z</published>
