@@ -926,6 +926,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/1cb1d34936a3b179/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] filetype node</title>
+    <link href="https://flowhub.org/f/578e0db8206559d8" rel="alternate" type="text/html" title="[NodeDev] filetype node"/>
+    <published>2023-11-25 21:47:55Z</published>
+    <updated>2023-11-25 21:47:55Z</updated>
+    <id>https://flowhub.org/f/578e0db8206559d8</id>
+    <content type="html" xml:base="https://flowhub.org/f/578e0db8206559d8">
+    [NodeDev] filetype node
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/578e0db8206559d8/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/578e0db8206559d8/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] filetype node examples</title>
     <link href="https://flowhub.org/f/0abb8904250e3eb6" rel="alternate" type="text/html" title="[NodeDev] filetype node examples"/>
     <published>2023-11-25 21:47:15Z</published>
