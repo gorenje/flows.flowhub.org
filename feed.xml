@@ -266,6 +266,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/7c29441a5cb63c9e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Decision tree] Which Node-RED extension should I use?</title>
+    <link href="https://flowhub.org/f/e51c499288aa059c" rel="alternate" type="text/html" title="[Decision tree] Which Node-RED extension should I use?"/>
+    <published>2023-11-27 17:16:30Z</published>
+    <updated>2023-11-27 17:16:30Z</updated>
+    <id>https://flowhub.org/f/e51c499288aa059c</id>
+    <content type="html" xml:base="https://flowhub.org/f/e51c499288aa059c">
+    [Decision tree] Which Node-RED extension should I use?
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e51c499288aa059c/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e51c499288aa059c/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Exp] Status Ticker</title>
     <link href="https://flowhub.org/f/18a539afac758c61" rel="alternate" type="text/html" title="[Exp] Status Ticker"/>
     <published>2023-10-27 17:02:38Z</published>
@@ -880,8 +892,8 @@
     <entry>
     <title type="html">[NodeDev] NodeDev Node-RED Package</title>
     <link href="https://flowhub.org/f/b92be5062203ff69" rel="alternate" type="text/html" title="[NodeDev] NodeDev Node-RED Package"/>
-    <published>2023-11-26 15:52:33Z</published>
-    <updated>2023-11-26 15:52:33Z</updated>
+    <published>2023-11-27 17:35:10Z</published>
+    <updated>2023-11-27 17:35:10Z</updated>
     <id>https://flowhub.org/f/b92be5062203ff69</id>
     <content type="html" xml:base="https://flowhub.org/f/b92be5062203ff69">
     [NodeDev] NodeDev Node-RED Package
