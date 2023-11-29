@@ -40,8 +40,8 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/e51c499288aa059c" target="_blank" rel="noopener">[Decision tree] Which Node-RED extension method should I use?</a> a few seconds ago</li>
-<li><a href="https://flowhub.org/f/3b1289d7ccf9cb0f" target="_blank" rel="noopener">flowviewer</a> 19 hours ago</li>
+<li><a href="https://flowhub.org/f/e51c499288aa059c" target="_blank" rel="noopener">[Decision tree] Which Node-RED extension method should I use?</a> 6 hours ago</li>
+<li><a href="https://flowhub.org/f/3b1289d7ccf9cb0f" target="_blank" rel="noopener">flowviewer</a> a day ago</li>
 <li><a href="https://flowhub.org/f/4a831589774ecb04" target="_blank" rel="noopener">[NodeDev] FlowHub</a> a day ago</li>
 <li><a href="https://flowhub.org/f/741c6acbed17d504" target="_blank" rel="noopener">[analytics] Node-RED Community catalogue</a> a day ago</li>
 <li><a href="https://flowhub.org/f/b92be5062203ff69" target="_blank" rel="noopener">[NodeDev] NodeDev Node-RED Package</a> 2 days ago</li>
