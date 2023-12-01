@@ -48,8 +48,8 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 <li><a href="https://flowhub.org/f/b92be5062203ff69" target="_blank" rel="noopener">[NodeDev] NodeDev Node-RED Package</a> 4 days ago</li>
 <li><a href="https://flowhub.org/f/7c29441a5cb63c9e" target="_blank" rel="noopener">[Decision tree] Software acquisition</a> 4 days ago</li>
 <li><a href="https://flowhub.org/f/8e598f0f47194617" target="_blank" rel="noopener">[NodeDev] Flow2UML</a> 4 days ago</li>
-<li><a href="https://flowhub.org/f/48c947cc435c328f" target="_blank" rel="noopener">[nodedev] my package development</a> 5 days ago</li>
-<li><a href="https://flowhub.org/f/578e0db8206559d8" target="_blank" rel="noopener">[NodeDev] filetype node</a> 5 days ago</li>
+<li><a href="https://flowhub.org/f/48c947cc435c328f" target="_blank" rel="noopener">[nodedev] my package development</a> 6 days ago</li>
+<li><a href="https://flowhub.org/f/578e0db8206559d8" target="_blank" rel="noopener">[NodeDev] filetype node</a> 6 days ago</li>
 </ul>
 
 
