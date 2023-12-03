@@ -170,6 +170,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/431fa52279b0d11b/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">OSC to I2C bridge</title>
+    <link href="https://flowhub.org/f/38021e5e2266e7e5" rel="alternate" type="text/html" title="OSC to I2C bridge"/>
+    <published>2023-12-03 15:06:10Z</published>
+    <updated>2023-12-03 15:06:10Z</updated>
+    <id>https://flowhub.org/f/38021e5e2266e7e5</id>
+    <content type="html" xml:base="https://flowhub.org/f/38021e5e2266e7e5">
+    OSC to I2C bridge
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/38021e5e2266e7e5/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/38021e5e2266e7e5/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">Overflow</title>
     <link href="https://flowhub.org/f/611c047e656989ae" rel="alternate" type="text/html" title="Overflow"/>
     <published>2023-10-31 16:11:27Z</published>
