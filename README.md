@@ -40,8 +40,9 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> a few seconds ago</li>
-<li><a href="https://flowhub.org/f/dcd353126f42af08" target="_blank" rel="noopener">[mindmap] Collaborative Development</a> 18 hours ago</li>
+<li><a href="https://flowhub.org/f/abbc8ccc5dd2e5d8" target="_blank" rel="noopener">[NodeDev] Example flows for AIsBreaker</a> a few seconds ago</li>
+<li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> an hour ago</li>
+<li><a href="https://flowhub.org/f/dcd353126f42af08" target="_blank" rel="noopener">[mindmap] Collaborative Development</a> 19 hours ago</li>
 <li><a href="https://flowhub.org/f/b67f596b8d985624" target="_blank" rel="noopener">[OSC-&gt;3D] Open Sound Control to 3D</a> a day ago</li>
 <li><a href="https://flowhub.org/f/38021e5e2266e7e5" target="_blank" rel="noopener">OSC to I2C bridge</a> 2 days ago</li>
 <li><a href="https://flowhub.org/f/4a831589774ecb04" target="_blank" rel="noopener">[NodeDev] FlowHub</a> 3 days ago</li>
@@ -49,7 +50,6 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 <li><a href="https://flowhub.org/f/2817a602bd1ba715" target="_blank" rel="noopener">Hello World - part 2: Functionality</a> 3 days ago</li>
 <li><a href="https://flowhub.org/f/67a6db53dc49ae4c" target="_blank" rel="noopener">Hello World - part 4: Function Reuse</a> 3 days ago</li>
 <li><a href="https://flowhub.org/f/722b6181086e9abe" target="_blank" rel="noopener">Hello World - part 3: Data Reuse</a> 3 days ago</li>
-<li><a href="https://flowhub.org/f/5f0c36ed4bd03058" target="_blank" rel="noopener">[babylonjs] 3D Node-RED Flow</a> 3 days ago</li>
 </ul>
 
 
