@@ -40,7 +40,8 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/4e2d8c13066b705e" target="_blank" rel="noopener">[ANN] Abalone dataset</a> a few seconds ago</li>
+<li><a href="https://flowhub.org/f/f7e009091ef2d6b0" target="_blank" rel="noopener">[NodeDev] Neural-Network Builder</a> a few seconds ago</li>
+<li><a href="https://flowhub.org/f/4e2d8c13066b705e" target="_blank" rel="noopener">[ANN] Abalone dataset</a> 2 minutes ago</li>
 <li><a href="https://flowhub.org/f/b67f596b8d985624" target="_blank" rel="noopener">[OSC-&gt;3D] Open Sound Control to 3D</a> 3 hours ago</li>
 <li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> 3 hours ago</li>
 <li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> 4 hours ago</li>
@@ -49,7 +50,6 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 <li><a href="https://flowhub.org/f/38021e5e2266e7e5" target="_blank" rel="noopener">OSC to I2C bridge</a> 3 days ago</li>
 <li><a href="https://flowhub.org/f/4a831589774ecb04" target="_blank" rel="noopener">[NodeDev] FlowHub</a> 4 days ago</li>
 <li><a href="https://flowhub.org/f/7bac2d969ad2969f" target="_blank" rel="noopener">Hello World - part 1: Input &amp; Output</a> 4 days ago</li>
-<li><a href="https://flowhub.org/f/2817a602bd1ba715" target="_blank" rel="noopener">Hello World - part 2: Functionality</a> 4 days ago</li>
 </ul>
 
 
