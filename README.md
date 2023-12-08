@@ -40,10 +40,10 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/b67f596b8d985624" target="_blank" rel="noopener">[OSC-&gt;3D] Open Sound Control to 3D</a> a few seconds ago</li>
-<li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> 3 minutes ago</li>
-<li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> 6 minutes ago</li>
-<li><a href="https://flowhub.org/f/abbc8ccc5dd2e5d8" target="_blank" rel="noopener">[NodeDev] Example flows for AIsBreaker</a> 15 hours ago</li>
+<li><a href="https://flowhub.org/f/b67f596b8d985624" target="_blank" rel="noopener">[OSC-&gt;3D] Open Sound Control to 3D</a> 3 hours ago</li>
+<li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> 3 hours ago</li>
+<li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> 3 hours ago</li>
+<li><a href="https://flowhub.org/f/abbc8ccc5dd2e5d8" target="_blank" rel="noopener">[NodeDev] Example flows for AIsBreaker</a> 18 hours ago</li>
 <li><a href="https://flowhub.org/f/dcd353126f42af08" target="_blank" rel="noopener">[mindmap] Collaborative Development</a> 2 days ago</li>
 <li><a href="https://flowhub.org/f/38021e5e2266e7e5" target="_blank" rel="noopener">OSC to I2C bridge</a> 3 days ago</li>
 <li><a href="https://flowhub.org/f/4a831589774ecb04" target="_blank" rel="noopener">[NodeDev] FlowHub</a> 4 days ago</li>
@@ -53,7 +53,7 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 </ul>
 
 
-## Flows
+## Example Flows
 
 <p><strong>Grasping Node-RED</strong></p>
 <ul>
@@ -75,25 +75,25 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 <ul>
 <li><a href="https://flowhub.org/f/31ea3193ec1a2117" target="_blank" rel="noopener">Commit files to GitHub</a></li>
 <li><a href="https://flowhub.org/f/be2109bba90b6c5a" target="_blank" rel="noopener">I<sup>2</sup>C Bus LED Ticker</a></li>
-<li><a href="https://flowhub.org/f/49221ed0e76e27c3" target="_blank" rel="noopener">Swagger API</a></li>
-<li><a href="https://flowhub.org/f/c9abaaed2623d0fb" target="_blank" rel="noopener">Automatic flows.json backup</a></li>
+<li><a href="https://flowhub.org/f/c9abaaed2623d0fb" target="_blank" rel="noopener">Automatic backups</a></li>
 <li><a href="https://flowhub.org/f/90196166b57a77e5" target="_blank" rel="noopener">JMAP: Email over Json</a></li>
+<li><a href="https://flowhub.org/f/49221ed0e76e27c3" target="_blank" rel="noopener">Swagger API</a></li>
 </ul>
-<p><strong>Advancing Node-RED</strong></p>
+<p><strong>Advanced Node-RED</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/0b1bfbf6e540be66" target="_blank" rel="noopener">GetFlows</a></li>
-<li><a href="https://flowhub.org/f/291e3f0b7f652839" target="_blank" rel="noopener">Auto-layout</a></li>
-<li><a href="https://flowhub.org/f/07b2d0f3b0445ab5" target="_blank" rel="noopener">Screenshot</a></li>
 <li><a href="https://flowhub.org/f/139a816449acd89f" target="_blank" rel="noopener">Sink &amp; Seeker</a></li>
-<li><a href="https://flowhub.org/f/e02ba6e534f7a0f4" target="_blank" rel="noopener">ClientCode</a></li>
+<li><a href="https://flowhub.org/f/e02ba6e534f7a0f4" target="_blank" rel="noopener">Coding the Editor</a></li>
+<li><a href="https://flowhub.org/f/6e54d62e53ab5b6d" target="_blank" rel="noopener">UML &amp; Node-RED</a></li>
+<li><a href="https://flowhub.org/f/bd2901f55cfc55ef" target="_blank" rel="noopener">Visual Comparison of Flows</a></li>
+<li><a href="https://flowhub.org/f/e46be6066ea2231c" target="_blank" rel="noopener">Benchmarking</a></li>
 </ul>
-<p><strong>Applying Node-RED</strong></p>
+<p><strong>Experimenting with Node-RED</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/6e54d62e53ab5b6d" target="_blank" rel="noopener">Convert Node-RED flow to Mermaid UML</a></li>
-<li><a href="https://flowhub.org/f/118d664c87ce7320" target="_blank" rel="noopener">UML and Node-RED: Decision &amp; Merge</a></li>
-<li><a href="https://flowhub.org/f/4059b930d1c0f643" target="_blank" rel="noopener">UML and Node-RED: Fork &amp; Join</a></li>
-<li><a href="https://flowhub.org/f/95e41632f97921ad" target="_blank" rel="noopener">RSS Reader in Node-RED</a></li>
-<li><a href="https://flowhub.org/f/e642c9a2598507ed" target="_blank" rel="noopener">Mindmaps in Node-RED</a></li>
+<li><a href="https://flowhub.org/f/e642c9a2598507ed" target="_blank" rel="noopener">Mindmaps</a></li>
+<li><a href="https://flowhub.org/f/e51c499288aa059c" target="_blank" rel="noopener">Decision Trees</a></li>
+<li><a href="https://flowhub.org/f/d0506e991d512ace" target="_blank" rel="noopener">Node development in Node-RED</a></li>
+<li><a href="https://flowhub.org/f/f7e009091ef2d6b0" target="_blank" rel="noopener">Artificial Neural Networks</a></li>
+<li><a href="https://flowhub.org/f/95e41632f97921ad" target="_blank" rel="noopener">RSS Reader</a></li>
 </ul>
 
 
