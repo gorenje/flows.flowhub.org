@@ -2,28 +2,30 @@
 permalink: /
 ---
 
-# FlowHub: Visual Node-RED code sharing
+# FlowHub: Visual Node-RED Code Sharing
 
 [FlowHub.org](https://flowhub.org) is an experimental platform for *visually* sharing, documenting and collaboratively extending Node-RED flows. 
 
 [Node-RED](https://nodered.org) is a visual development platform focussed on Internet of Things (IoT) applications. Underlying Node-RED is the concept of visual flow based programming and which allows for wider application of Node-RED than simply IoT. 
 
-[Flow Based Programming](https://jpaulm.github.io/fbp/index.html) (FBP) has many useful features unfortunately FBP lacks the tooling around that exists around textual programming languages: testing (unit testing), development workflows (GitHub flow) and collaboration (code comparison). These features need to be recreated in a *visual* form for FBP to reach a broader audience. Textual FBP can be found in the use of the [pipe](https://en.wikipedia.org/wiki/Pipeline_(Unix)) (i.e., `|`) on the Unix command line.
+[Flow Based Programming](https://jpaulm.github.io/fbp/index.html) (FBP) has many useful features unfortunately FBP lacks the tooling around that exists around textual programming languages: testing (e.g., unit and integration testing), development workflows (e.g., [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)) and collaboration (e.g., version control). These features need to be recreated *visually* for *visual* FBP to reach a broader audience. Text-based FBP can be found in the use of the [pipe](https://en.wikipedia.org/wiki/Pipeline_(Unix)) (i.e., `|`) on the Unix command line.
 
-Flows from FlowHub.org can be imported (i.e., *pulled*) directly into Node-RED using the [FlowHub nodes](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub). Flows can be uploaded (i.e., *pushed*) to FlowHub.org using a valid email address and are curated by the authors of FlowHub.org.
+**Why Flow Based Programming?** FBP places the focus on data flows and not algorithmic computation, simply put: the code is hidden while instead data flows are emphasised. Node-RED is not a *no-code* solution, it is a *low-code* solution providing just the right level of abstraction to implement the ideas for FBP.
 
-Two articles are available that better describe my intentions in creating FlowHub.org:
+Two articles are available that better describe the authors intentions in creating FlowHub.org:
 
 - [FlowHub: Visual Code Sharing](https://blog.openmindmap.org/blog/flowhub)
 - [FlowHub.org: Towards collaborative visual flow based development](https://blog.openmindmap.org/blog/flowhub-collaborative-code-sharing)
 
-In summary, the focus is on clarity of flow changes between revisions, on sharing of knowledge and collaboratively working on Node-RED flows.
+Flows from FlowHub.org can be imported (i.e., *pulled*) directly into Node-RED using the [FlowHub nodes](https://flows.nodered.org/node/@gregoriusrippenstein/node-red-contrib-flowhub). Flows can be uploaded (i.e., *pushed*) to FlowHub.org using a valid email address and are curated by the authors of FlowHub.org.
 
 ## Goals
 
-FlowHub aims to promote visual programming by providing tools that every programmer would expect from a programming language. FlowHub.org explores what it means to apply concepts such as refactoring, design patterns, unit tests, code sharing and version control in the context of a visual programming environment such as Node-RED. 
+FlowHub aims to **promote visual programming** by providing tools that every programmer would expect from a programming language. FlowHub.org explores what it means to apply concepts such as refactoring, design patterns, unit tests, code sharing and version control to the concept of *visual* programming. 
 
-Years of textual-based programming has created a body of concepts, wisdoms and best-practices that must be transported and applied in a visual-based programming environment. Some of these ideas might prove to become redundant in a visual environment and new ideas will arise, the best fit remains to be found.
+Years of text-based programming has created a body of concepts, **wisdoms and best-practices** that must be transported and applied in a visual-based programming environment. Some of these ideas might prove to become redundant in a visual environment and new ideas will arise, the best fit remains to be found.
+
+We as developers have to realise that that text-based programming is becoming the **[punchcards](https://en.wikipedia.org/wiki/Punched_card)** that text-based programming replaced. A new approach should be found to extend the knowledge and ideas of programming.
 
 ## Example Flows
 
@@ -76,9 +78,9 @@ Years of textual-based programming has created a body of concepts, wisdoms and b
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/f7e009091ef2d6b0" target="_blank" rel="noopener">[NodeDev] Neural-Network Builder</a> 22 minutes ago</li>
-<li><a href="https://flowhub.org/f/0afa833f1084c333" target="_blank" rel="noopener">[ANN] Multilayer Neural Network - Abalone</a> 23 minutes ago</li>
-<li><a href="https://flowhub.org/f/4e2d8c13066b705e" target="_blank" rel="noopener">[ANN] Abalone dataset</a> 28 minutes ago</li>
+<li><a href="https://flowhub.org/f/f7e009091ef2d6b0" target="_blank" rel="noopener">[NodeDev] Neural-Network Builder</a> 34 minutes ago</li>
+<li><a href="https://flowhub.org/f/0afa833f1084c333" target="_blank" rel="noopener">[ANN] Multilayer Neural Network - Abalone</a> 35 minutes ago</li>
+<li><a href="https://flowhub.org/f/4e2d8c13066b705e" target="_blank" rel="noopener">[ANN] Abalone dataset</a> 40 minutes ago</li>
 <li><a href="https://flowhub.org/f/b67f596b8d985624" target="_blank" rel="noopener">[OSC-&gt;3D] Open Sound Control to 3D</a> 4 hours ago</li>
 <li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> 4 hours ago</li>
 <li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> 4 hours ago</li>
