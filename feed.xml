@@ -218,6 +218,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e1ff991f249109b1/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[ANN] Abalone dataset</title>
+    <link href="https://flowhub.org/f/4e2d8c13066b705e" rel="alternate" type="text/html" title="[ANN] Abalone dataset"/>
+    <published>2023-12-08 11:21:20Z</published>
+    <updated>2023-12-08 11:21:20Z</updated>
+    <id>https://flowhub.org/f/4e2d8c13066b705e</id>
+    <content type="html" xml:base="https://flowhub.org/f/4e2d8c13066b705e">
+    [ANN] Abalone dataset
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/4e2d8c13066b705e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/4e2d8c13066b705e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Art] A day at Hacker News</title>
     <link href="https://flowhub.org/f/1b2cdc85fc889cd0" rel="alternate" type="text/html" title="[Art] A day at Hacker News"/>
     <published>2023-09-03 09:32:45Z</published>
