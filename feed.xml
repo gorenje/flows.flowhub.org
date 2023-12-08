@@ -230,6 +230,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/4e2d8c13066b705e/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[ANN] Multilayer Neural Network - Abalone</title>
+    <link href="https://flowhub.org/f/0afa833f1084c333" rel="alternate" type="text/html" title="[ANN] Multilayer Neural Network - Abalone"/>
+    <published>2023-12-08 11:28:39Z</published>
+    <updated>2023-12-08 11:28:39Z</updated>
+    <id>https://flowhub.org/f/0afa833f1084c333</id>
+    <content type="html" xml:base="https://flowhub.org/f/0afa833f1084c333">
+    [ANN] Multilayer Neural Network - Abalone
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/0afa833f1084c333/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/0afa833f1084c333/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Art] A day at Hacker News</title>
     <link href="https://flowhub.org/f/1b2cdc85fc889cd0" rel="alternate" type="text/html" title="[Art] A day at Hacker News"/>
     <published>2023-09-03 09:32:45Z</published>
