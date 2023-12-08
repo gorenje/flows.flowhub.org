@@ -8,7 +8,7 @@ permalink: /
 
 [Node-RED](https://nodered.org) is a visual development platform focussed on Internet of Things (IoT) applications. Underlying Node-RED is the concept of visual flow based programming and which allows for wider application of Node-RED than simply IoT. 
 
-[Flow Based Programming](https://jpaulm.github.io/fbp/index.html) (FBP) has many useful features unfortunately FBP lacks the tooling around that exists around textual programming languages: testing (e.g., unit and integration testing), development workflows (e.g., [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)) and collaboration (e.g., version control). These features need to be recreated *visually* for *visual* FBP to reach a broader audience. Text-based FBP can be found in the use of the [pipe](https://en.wikipedia.org/wiki/Pipeline_(Unix)) (i.e., `|`) on the Unix command line.
+[Flow Based Programming](https://jpaulm.github.io/fbp/index.html) (FBP) has many useful features unfortunately FBP lacks the tooling around that exists around text-based programming languages: testing (e.g., unit and integration testing), development workflows (e.g., [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)) and collaboration (e.g., version control). These features need to be recreated *visually* for *visual* FBP to reach a broader audience. Ironically text-based FBP can be found in the use of the [pipe](https://en.wikipedia.org/wiki/Pipeline_(Unix)) (i.e., `|`) on the Unix command line.
 
 **Why Flow Based Programming?** FBP places the focus on data flows and not algorithmic computation, simply put: the code is hidden while instead data flows are emphasised. Node-RED is not a *no-code* solution, it is a *low-code* solution providing just the right level of abstraction to implement the ideas for FBP.
 
@@ -63,12 +63,14 @@ We as developers have to realise that that text-based programming is becoming th
 </ul>
 <p><strong>Experimenting with Node-RED</strong></p>
 <ul>
+<li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">AI &amp; Node-RED</a></li>
 <li><a href="https://flowhub.org/f/e642c9a2598507ed" target="_blank" rel="noopener">Mindmaps</a></li>
 <li><a href="https://flowhub.org/f/e51c499288aa059c" target="_blank" rel="noopener">Decision Trees</a></li>
 <li><a href="https://flowhub.org/f/d0506e991d512ace" target="_blank" rel="noopener">Node development in Node-RED</a></li>
 <li><a href="https://flowhub.org/f/f7e009091ef2d6b0" target="_blank" rel="noopener">Artificial Neural Networks</a></li>
 <li><a href="https://flowhub.org/f/95e41632f97921ad" target="_blank" rel="noopener">RSS Reader</a></li>
-<li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">AI &amp; Node-RED</a></li>
+<li><a href="https://flowhub.org/f/5f0c36ed4bd03058" target="_blank" rel="noopener">Coding in 3D</a></li>
+<li><a href="https://flowhub.org/f/6c8ce462533a1da4" target="_blank" rel="noopener">Code as Art</a></li>
 </ul>
 
 
@@ -78,9 +80,9 @@ We as developers have to realise that that text-based programming is becoming th
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/f7e009091ef2d6b0" target="_blank" rel="noopener">[NodeDev] Neural-Network Builder</a> 34 minutes ago</li>
-<li><a href="https://flowhub.org/f/0afa833f1084c333" target="_blank" rel="noopener">[ANN] Multilayer Neural Network - Abalone</a> 35 minutes ago</li>
-<li><a href="https://flowhub.org/f/4e2d8c13066b705e" target="_blank" rel="noopener">[ANN] Abalone dataset</a> 40 minutes ago</li>
+<li><a href="https://flowhub.org/f/f7e009091ef2d6b0" target="_blank" rel="noopener">[NodeDev] Neural-Network Builder</a> 44 minutes ago</li>
+<li><a href="https://flowhub.org/f/0afa833f1084c333" target="_blank" rel="noopener">[ANN] Multilayer Neural Network - Abalone</a> an hour ago</li>
+<li><a href="https://flowhub.org/f/4e2d8c13066b705e" target="_blank" rel="noopener">[ANN] Abalone dataset</a> an hour ago</li>
 <li><a href="https://flowhub.org/f/b67f596b8d985624" target="_blank" rel="noopener">[OSC-&gt;3D] Open Sound Control to 3D</a> 4 hours ago</li>
 <li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> 4 hours ago</li>
 <li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> 4 hours ago</li>
