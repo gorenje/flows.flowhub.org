@@ -40,9 +40,9 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/f7e009091ef2d6b0" target="_blank" rel="noopener">[NodeDev] Neural-Network Builder</a> a few seconds ago</li>
-<li><a href="https://flowhub.org/f/0afa833f1084c333" target="_blank" rel="noopener">[ANN] Multilayer Neural Network - Abalone</a> 2 minutes ago</li>
-<li><a href="https://flowhub.org/f/4e2d8c13066b705e" target="_blank" rel="noopener">[ANN] Abalone dataset</a> 7 minutes ago</li>
+<li><a href="https://flowhub.org/f/f7e009091ef2d6b0" target="_blank" rel="noopener">[NodeDev] Neural-Network Builder</a> 4 minutes ago</li>
+<li><a href="https://flowhub.org/f/0afa833f1084c333" target="_blank" rel="noopener">[ANN] Multilayer Neural Network - Abalone</a> 6 minutes ago</li>
+<li><a href="https://flowhub.org/f/4e2d8c13066b705e" target="_blank" rel="noopener">[ANN] Abalone dataset</a> 11 minutes ago</li>
 <li><a href="https://flowhub.org/f/b67f596b8d985624" target="_blank" rel="noopener">[OSC-&gt;3D] Open Sound Control to 3D</a> 4 hours ago</li>
 <li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> 4 hours ago</li>
 <li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> 4 hours ago</li>
@@ -85,7 +85,7 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 <li><a href="https://flowhub.org/f/e02ba6e534f7a0f4" target="_blank" rel="noopener">Coding the Editor</a></li>
 <li><a href="https://flowhub.org/f/6e54d62e53ab5b6d" target="_blank" rel="noopener">UML &amp; Node-RED</a></li>
 <li><a href="https://flowhub.org/f/bd2901f55cfc55ef" target="_blank" rel="noopener">Visual Comparison of Flows</a></li>
-<li><a href="https://flowhub.org/f/e46be6066ea2231c" target="_blank" rel="noopener">Benchmarking</a></li>
+<li><a href="https://flowhub.org/f/e46be6066ea2231c" target="_blank" rel="noopener">Request Benchmarking</a></li>
 </ul>
 <p><strong>Experimenting with Node-RED</strong></p>
 <ul>
@@ -94,6 +94,7 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 <li><a href="https://flowhub.org/f/d0506e991d512ace" target="_blank" rel="noopener">Node development in Node-RED</a></li>
 <li><a href="https://flowhub.org/f/f7e009091ef2d6b0" target="_blank" rel="noopener">Artificial Neural Networks</a></li>
 <li><a href="https://flowhub.org/f/95e41632f97921ad" target="_blank" rel="noopener">RSS Reader</a></li>
+<li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">AI &amp; Node-RED</a></li>
 </ul>
 
 
