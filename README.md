@@ -40,8 +40,8 @@ All flows found here are licensed under the [don't do evil license](https://raw.
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> a few seconds ago</li>
-<li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> 11 hours ago</li>
+<li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> a few seconds ago</li>
+<li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> 3 minutes ago</li>
 <li><a href="https://flowhub.org/f/abbc8ccc5dd2e5d8" target="_blank" rel="noopener">[NodeDev] Example flows for AIsBreaker</a> 15 hours ago</li>
 <li><a href="https://flowhub.org/f/dcd353126f42af08" target="_blank" rel="noopener">[mindmap] Collaborative Development</a> 2 days ago</li>
 <li><a href="https://flowhub.org/f/b67f596b8d985624" target="_blank" rel="noopener">[OSC-&gt;3D] Open Sound Control to 3D</a> 2 days ago</li>
