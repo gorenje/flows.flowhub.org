@@ -4,15 +4,15 @@ permalink: /
 
 # FlowHub: Visual Node-RED Code Sharing
 
-[FlowHub.org](https://flowhub.org) is an experimental platform for *visually* sharing, documenting and collaboratively extending Node-RED flows. 
+[FlowHub.org](https://flowhub.org) is an experimental platform for *visually* sharing, documenting and collaboratively altering Node-RED flows. 
 
-[Node-RED](https://nodered.org) is a visual development platform focussed on Internet of Things (IoT) applications. Underlying Node-RED is the concept of visual flow based programming and which allows for wider application of Node-RED than simply IoT. 
+[Node-RED](https://nodered.org) is a visual development platform focussed on Internet of Things (IoT) applications. Underlying Node-RED is the concept of visual flow based programming which allows for the wider application of Node-RED beyond *just* IoT. 
 
-[Flow Based Programming](https://jpaulm.github.io/fbp/index.html) (FBP) has many useful features unfortunately FBP lacks the tooling around that exists around text-based programming languages: testing (e.g., unit and integration testing), development workflows (e.g., [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)) and collaboration (e.g., version control). These features need to be recreated *visually* for *visual* FBP to reach a broader audience. Ironically text-based FBP can be found in the use of the [pipe](https://en.wikipedia.org/wiki/Pipeline_(Unix)) (i.e., `|`) on the Unix command line.
+[Flow Based Programming](https://jpaulm.github.io/fbp/index.html) (FBP) has many useful features unfortunately FBP lacks the tooling that exists around text-based programming languages: testing (e.g., unit and integration testing), development workflows (e.g., [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)) and collaboration (e.g., version control). These features need to be recreated *visually* for *visual* FBP to reach a broader audience. Ironically text-based FBP can be found in the use of the [pipe](https://en.wikipedia.org/wiki/Pipeline_(Unix)) (i.e., `|`) on the Unix command line.
 
 **Why Flow Based Programming?** FBP places the focus on data flows and not algorithmic computation, simply put: the code is hidden while instead data flows are emphasised. Node-RED is not a *no-code* solution, it is a *low-code* solution providing just the right level of abstraction to implement the ideas for FBP.
 
-Two articles are available that better describe the authors intentions in creating FlowHub.org:
+Two articles provdie more details of the authors intentions in creating FlowHub.org:
 
 - [FlowHub: Visual Code Sharing](https://blog.openmindmap.org/blog/flowhub)
 - [FlowHub.org: Towards collaborative visual flow based development](https://blog.openmindmap.org/blog/flowhub-collaborative-code-sharing)
@@ -23,9 +23,9 @@ Flows from FlowHub.org can be imported (i.e., *pulled*) directly into Node-RED u
 
 FlowHub aims to **promote visual programming** by providing tools that every programmer would expect from a programming language. FlowHub.org explores what it means to apply concepts such as refactoring, design patterns, unit tests, code sharing and version control to the concept of *visual* programming. 
 
-Years of text-based programming has created a body of concepts, **wisdoms and best-practices** that must be transported and applied in a visual-based programming environment. Some of these ideas might prove to become redundant in a visual environment and new ideas will arise, the best fit remains to be found.
+Years of text-based programming has created a body of concepts, **wisdoms and best-practices** that must be transported and applied in a visual-based programming environment. Some of these ideas might prove to become redundant in a visual environment and new ideas will arise in their place.
 
-We as developers have to realise that that text-based programming is becoming the **[punchcards](https://en.wikipedia.org/wiki/Punched_card)** that text-based programming replaced. A new approach should be found to extend the knowledge and ideas of programming.
+We as developers have to realise that that text-based programming is becoming the **[punchcards](https://en.wikipedia.org/wiki/Punched_card)** that text-based programming replaced. A new approach should be found to extend the knowledge and ideas of programming. As our technology has advanced with text-based programming, now it is time that technology advances our programming methods.
 
 ## Example Flows
 
@@ -80,13 +80,13 @@ We as developers have to realise that that text-based programming is becoming th
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/6c8ce462533a1da4" target="_blank" rel="noopener">w.h.y.</a> a few seconds ago</li>
+<li><a href="https://flowhub.org/f/6c8ce462533a1da4" target="_blank" rel="noopener">w.h.y.</a> 6 minutes ago</li>
 <li><a href="https://flowhub.org/f/f7e009091ef2d6b0" target="_blank" rel="noopener">[NodeDev] Neural-Network Builder</a> an hour ago</li>
 <li><a href="https://flowhub.org/f/0afa833f1084c333" target="_blank" rel="noopener">[ANN] Multilayer Neural Network - Abalone</a> an hour ago</li>
 <li><a href="https://flowhub.org/f/4e2d8c13066b705e" target="_blank" rel="noopener">[ANN] Abalone dataset</a> an hour ago</li>
 <li><a href="https://flowhub.org/f/b67f596b8d985624" target="_blank" rel="noopener">[OSC-&gt;3D] Open Sound Control to 3D</a> 4 hours ago</li>
-<li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> 4 hours ago</li>
-<li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> 4 hours ago</li>
+<li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> 5 hours ago</li>
+<li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> 5 hours ago</li>
 <li><a href="https://flowhub.org/f/abbc8ccc5dd2e5d8" target="_blank" rel="noopener">[NodeDev] Example flows for AIsBreaker</a> 19 hours ago</li>
 <li><a href="https://flowhub.org/f/dcd353126f42af08" target="_blank" rel="noopener">[mindmap] Collaborative Development</a> 2 days ago</li>
 <li><a href="https://flowhub.org/f/38021e5e2266e7e5" target="_blank" rel="noopener">OSC to I2C bridge</a> 3 days ago</li>
