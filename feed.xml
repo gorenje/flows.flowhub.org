@@ -206,6 +206,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/ac7774554793f417/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[AI] Having a conversation</title>
+    <link href="https://flowhub.org/f/aaab9308f8fbb2c5" rel="alternate" type="text/html" title="[AI] Having a conversation"/>
+    <published>2023-12-11 18:19:06Z</published>
+    <updated>2023-12-11 18:19:06Z</updated>
+    <id>https://flowhub.org/f/aaab9308f8fbb2c5</id>
+    <content type="html" xml:base="https://flowhub.org/f/aaab9308f8fbb2c5">
+    [AI] Having a conversation
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/aaab9308f8fbb2c5/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/aaab9308f8fbb2c5/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[AI] using combination of AIs</title>
     <link href="https://flowhub.org/f/e1ff991f249109b1" rel="alternate" type="text/html" title="[AI] using combination of AIs"/>
     <published>2023-12-11 17:12:02Z</published>
