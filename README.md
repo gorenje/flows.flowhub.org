@@ -81,9 +81,9 @@ We as developers have to realise that that text-based programming is becoming th
 <p><strong>Last ten updates</strong></p>
 <ul>
 <li><a href="https://flowhub.org/f/135a1cd9aa3419cb" target="_blank" rel="noopener">[NodeDev] AIsBreaker Node</a> a few seconds ago</li>
-<li><a href="https://flowhub.org/f/aaab9308f8fbb2c5" target="_blank" rel="noopener">[AI] Having a conversation</a> 19 minutes ago</li>
-<li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> an hour ago</li>
-<li><a href="https://flowhub.org/f/abbc8ccc5dd2e5d8" target="_blank" rel="noopener">[NodeDev] Example flows for AIsBreaker</a> an hour ago</li>
+<li><a href="https://flowhub.org/f/aaab9308f8fbb2c5" target="_blank" rel="noopener">[AI] Having a conversation</a> 29 minutes ago</li>
+<li><a href="https://flowhub.org/f/e1ff991f249109b1" target="_blank" rel="noopener">[AI] using combination of AIs</a> 2 hours ago</li>
+<li><a href="https://flowhub.org/f/abbc8ccc5dd2e5d8" target="_blank" rel="noopener">[NodeDev] Example flows for AIsBreaker</a> 2 hours ago</li>
 <li><a href="https://flowhub.org/f/390ee0021ded4910" target="_blank" rel="noopener">[GitHub] base functionality</a> a day ago</li>
 <li><a href="https://flowhub.org/f/dd3cb2217a01efae" target="_blank" rel="noopener">[GitHub Actions] Visualising GitHub actions as Node-RED flows</a> a day ago</li>
 <li><a href="https://flowhub.org/f/31ea3193ec1a2117" target="_blank" rel="noopener">[GitHub] commit single file</a> a day ago</li>
