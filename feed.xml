@@ -14,6 +14,18 @@
 <uri>https://blog.openmindmap.org</uri>
 </author>
     <entry>
+    <title type="html">Epigrams in Programming</title>
+    <link href="https://flowhub.org/f/e9825505105fbae9" rel="alternate" type="text/html" title="Epigrams in Programming"/>
+    <published>2023-12-23 21:36:02Z</published>
+    <updated>2023-12-23 21:36:02Z</updated>
+    <id>https://flowhub.org/f/e9825505105fbae9</id>
+    <content type="html" xml:base="https://flowhub.org/f/e9825505105fbae9">
+    Epigrams in Programming
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e9825505105fbae9/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/e9825505105fbae9/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">Hello World - part 1: Input &amp; Output</title>
     <link href="https://flowhub.org/f/7bac2d969ad2969f" rel="alternate" type="text/html" title="Hello World - part 1: Input &amp; Output"/>
     <published>2023-12-04 13:06:55Z</published>
