@@ -1538,6 +1538,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/78544e8eddf6274b/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[sound] Jingle Bells</title>
+    <link href="https://flowhub.org/f/5299e45175c85820" rel="alternate" type="text/html" title="[sound] Jingle Bells"/>
+    <published>2023-12-24 12:13:13Z</published>
+    <updated>2023-12-24 12:13:13Z</updated>
+    <id>https://flowhub.org/f/5299e45175c85820</id>
+    <content type="html" xml:base="https://flowhub.org/f/5299e45175c85820">
+    [sound] Jingle Bells
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/5299e45175c85820/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/5299e45175c85820/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[sound] in-browser Oscillator and Speech node</title>
     <link href="https://flowhub.org/f/dffde1454d88f8c5" rel="alternate" type="text/html" title="[sound] in-browser Oscillator and Speech node"/>
     <published>2023-12-21 19:48:53Z</published>
