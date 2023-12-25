@@ -80,9 +80,9 @@ We as developers have to realise that that text-based programming is becoming th
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/5299e45175c85820" target="_blank" rel="noopener">[sound] Jingle Bells</a> 15 minutes ago</li>
+<li><a href="https://flowhub.org/f/5299e45175c85820" target="_blank" rel="noopener">[sound] Jingle Bells</a> a minute ago</li>
 <li><a href="https://flowhub.org/f/15cc9fb0e94d56cd" target="_blank" rel="noopener">[deadred] minimal viable backend</a> 2 hours ago</li>
-<li><a href="https://flowhub.org/f/f93e13e54f881a08" target="_blank" rel="noopener">Testbed for a server-less Node-RED instance</a> 10 hours ago</li>
+<li><a href="https://flowhub.org/f/f93e13e54f881a08" target="_blank" rel="noopener">Testbed for a server-less Node-RED instance</a> 11 hours ago</li>
 <li><a href="https://flowhub.org/f/b3d8d3a926ff80e7" target="_blank" rel="noopener">[NodeDev] Sidebar Auto Alignment</a> a day ago</li>
 <li><a href="https://flowhub.org/f/e9825505105fbae9" target="_blank" rel="noopener">Epigrams in Programming</a> 2 days ago</li>
 <li><a href="https://flowhub.org/f/dffde1454d88f8c5" target="_blank" rel="noopener">[sound] in-browser Oscillator and Speech node</a> 4 days ago</li>
