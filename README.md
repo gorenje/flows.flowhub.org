@@ -80,8 +80,8 @@ We as developers have to realise that that text-based programming is becoming th
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/0b1bfbf6e540be66" target="_blank" rel="noopener">[Introspection] GetFlows</a> a few seconds ago</li>
-<li><a href="https://flowhub.org/f/443628bcd5964a2c" target="_blank" rel="noopener">[Exp] Status Ticker - take 2 - Client Code</a> 6 hours ago</li>
+<li><a href="https://flowhub.org/f/443628bcd5964a2c" target="_blank" rel="noopener">[Exp] Status Ticker - take 2 - Client Code</a> a few seconds ago</li>
+<li><a href="https://flowhub.org/f/0b1bfbf6e540be66" target="_blank" rel="noopener">[Introspection] GetFlows</a> 27 minutes ago</li>
 <li><a href="https://flowhub.org/f/5299e45175c85820" target="_blank" rel="noopener">[sound] Jingle Bells</a> 21 hours ago</li>
 <li><a href="https://flowhub.org/f/15cc9fb0e94d56cd" target="_blank" rel="noopener">[deadred] minimal viable backend</a> a day ago</li>
 <li><a href="https://flowhub.org/f/f93e13e54f881a08" target="_blank" rel="noopener">Testbed for a server-less Node-RED instance</a> a day ago</li>
