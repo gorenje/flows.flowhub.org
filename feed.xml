@@ -374,6 +374,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/18a539afac758c61/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[Exp] Status Ticker - take 2 - Client Code</title>
+    <link href="https://flowhub.org/f/443628bcd5964a2c" rel="alternate" type="text/html" title="[Exp] Status Ticker - take 2 - Client Code"/>
+    <published>2023-12-26 09:53:30Z</published>
+    <updated>2023-12-26 09:53:30Z</updated>
+    <id>https://flowhub.org/f/443628bcd5964a2c</id>
+    <content type="html" xml:base="https://flowhub.org/f/443628bcd5964a2c">
+    [Exp] Status Ticker - take 2 - Client Code
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/443628bcd5964a2c/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/443628bcd5964a2c/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[Experimental] Auto-layout using Elkjs &amp; dagre</title>
     <link href="https://flowhub.org/f/291e3f0b7f652839" rel="alternate" type="text/html" title="[Experimental] Auto-layout using Elkjs &amp; dagre"/>
     <published>2023-09-10 06:45:25Z</published>
