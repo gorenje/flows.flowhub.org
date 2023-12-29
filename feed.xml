@@ -74,6 +74,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/67a6db53dc49ae4c/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">In-Browser Node-RED instance</title>
+    <link href="https://flowhub.org/f/f93e13e54f881a08" rel="alternate" type="text/html" title="In-Browser Node-RED instance"/>
+    <published>2023-12-29 14:01:46Z</published>
+    <updated>2023-12-29 14:01:46Z</updated>
+    <id>https://flowhub.org/f/f93e13e54f881a08</id>
+    <content type="html" xml:base="https://flowhub.org/f/f93e13e54f881a08">
+    In-Browser Node-RED instance
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/f93e13e54f881a08/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/f93e13e54f881a08/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">Node-RED Introduction - part 1</title>
     <link href="https://flowhub.org/f/7f8714fa6e835a2a" rel="alternate" type="text/html" title="Node-RED Introduction - part 1"/>
     <published>2023-08-10 11:54:00Z</published>
@@ -204,18 +216,6 @@
     </content>
     <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/611c047e656989ae/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/611c047e656989ae/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
-    </entry>
-    <entry>
-    <title type="html">Testbed for a server-less Node-RED instance</title>
-    <link href="https://flowhub.org/f/f93e13e54f881a08" rel="alternate" type="text/html" title="Testbed for a server-less Node-RED instance"/>
-    <published>2023-12-29 13:58:52Z</published>
-    <updated>2023-12-29 13:58:52Z</updated>
-    <id>https://flowhub.org/f/f93e13e54f881a08</id>
-    <content type="html" xml:base="https://flowhub.org/f/f93e13e54f881a08">
-    Testbed for a server-less Node-RED instance
-    </content>
-    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/f93e13e54f881a08/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
-    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/f93e13e54f881a08/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
     <title type="html">Visual Flow Based Programming</title>
