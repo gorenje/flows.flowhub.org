@@ -80,7 +80,7 @@ We as developers have to realise that that text-based programming is becoming th
 
 <p><strong>Last ten updates</strong></p>
 <ul>
-<li><a href="https://flowhub.org/f/b0060c3057106347" target="_blank" rel="noopener">[genuary] #1</a> 11 minutes ago</li>
+<li><a href="https://flowhub.org/f/b0060c3057106347" target="_blank" rel="noopener">[genuary] #1</a> a few seconds ago</li>
 <li><a href="https://flowhub.org/f/18a539afac758c61" target="_blank" rel="noopener">[Exp] Status Ticker</a> an hour ago</li>
 <li><a href="https://flowhub.org/f/443628bcd5964a2c" target="_blank" rel="noopener">[Exp] Status Ticker - take 2 - Client Code</a> an hour ago</li>
 <li><a href="https://flowhub.org/f/a3f6aebd9bb877bc" target="_blank" rel="noopener">[Exp] Status Ticker - take 3 - Client Code</a> an hour ago</li>
