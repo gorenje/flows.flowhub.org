@@ -1454,6 +1454,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b3b45b714a582c41/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[genuary] #1</title>
+    <link href="https://flowhub.org/f/b0060c3057106347" rel="alternate" type="text/html" title="[genuary] #1"/>
+    <published>2024-01-01 09:23:34Z</published>
+    <updated>2024-01-01 09:23:34Z</updated>
+    <id>https://flowhub.org/f/b0060c3057106347</id>
+    <content type="html" xml:base="https://flowhub.org/f/b0060c3057106347">
+    [genuary] #1
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b0060c3057106347/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/b0060c3057106347/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[mindmap] Collaborative Development</title>
     <link href="https://flowhub.org/f/dcd353126f42af08" rel="alternate" type="text/html" title="[mindmap] Collaborative Development"/>
     <published>2023-12-06 17:03:55Z</published>
