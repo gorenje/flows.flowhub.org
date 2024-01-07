@@ -854,6 +854,18 @@
     <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/3de89bdf647951dc/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
     </entry>
     <entry>
+    <title type="html">[NodeDev] ETLpipe nodes</title>
+    <link href="https://flowhub.org/f/8f3dce262ab55482" rel="alternate" type="text/html" title="[NodeDev] ETLpipe nodes"/>
+    <published>2024-01-07 23:44:45Z</published>
+    <updated>2024-01-07 23:44:45Z</updated>
+    <id>https://flowhub.org/f/8f3dce262ab55482</id>
+    <content type="html" xml:base="https://flowhub.org/f/8f3dce262ab55482">
+    [NodeDev] ETLpipe nodes
+    </content>
+    <media:thumbnails url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/8f3dce262ab55482/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    <media:content medium="image" url="https://raw.githubusercontent.com/gorenje/flows.flowhub.org/main/8f3dce262ab55482/preview.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+    </entry>
+    <entry>
     <title type="html">[NodeDev] Example creating happynode</title>
     <link href="https://flowhub.org/f/eb5fd7f2d4861038" rel="alternate" type="text/html" title="[NodeDev] Example creating happynode"/>
     <published>2023-10-09 11:18:12Z</published>
